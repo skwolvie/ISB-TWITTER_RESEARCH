@@ -1,0 +1,598 @@
+GVKEY,Company,TwitterID,TwitterName,TwitterHandle,Verified(Y/N),Validated,Since,TweetsCount,FollowersCount,TwitterDescr
+1661.0,NABORS INDUSTRIES LTD,1694623495,Nabors Industries,NaborsGlobal,False,1,2013-08-23 19:12:12,203,623,"From automated rig components to integrated drilling solutions, Nabors provides the latest innovative technologies that are changing the way wells are drilled."
+1794.0,ASHLAND GLOBAL HOLDINGS INC,294252642,Ashland,AshlandInc,False,1,2011-05-06 20:12:04,2344,2694,always solving™
+2504.0,UNISYS CORP,48402711,Unisys Corporation,unisyscorp,False,1,2009-06-18 16:27:50,61446,37306,Updates and insights on business developments and news from Unisys Corporate and PR Team
+2574.0,CSX CORP,15724503,CSX,CSX,False,1,2008-08-04 16:51:02,5477,45811,The official Twitter feed for CSX.
+3054.0,CIRCUIT CITY STORES INC,4869302867,Circuit City,CircuitCity,False,1,2016-02-01 14:14:33,168,699,"OH YES, WE’RE BACK! Your GO TO for exclusive & innovative consumer technology & electronics. Tag us #CircuitCity to be featured."
+4494.0,EXPEDITORS INTL WASH INC,718884342,Expeditors,EXPD_Official,False,1,2012-07-26 22:20:52,2152,2641,Expeditors official Twitter page. We are a Fortune 500 (374) company that provides a comprehensive suite of global services for your evolving logistics needs.
+4601.0,FEDERAL NATIONAL MORTGA ASSN,115497237,Fannie Mae,FannieMae,True,1,2010-02-18 21:13:23,6395,57132,"We serve the people who house America by creating opportunities for people to buy, refinance, or rent a home. 
+Careers: @FannieMaeJobs
+Industry: @FannieHomePath"
+4605.0,FEDERAL REALTY INVESTMENT TR,76672941,federalrealty,FederalRealty,False,1,2009-09-23 15:35:49,1741,2466,"Best-in-class #REIT (and Dividend King) specializing in the ownership, operation and development of premier shopping centers and mixed-use projects #NYSE $FRT"
+4737.0,FIRST HORIZON NATIONAL CORP,39359732,First Horizon Bank,FirstHorizonBnk,False,1,2009-05-11 22:27:53,9534,4615,Welcome to the official page of First Horizon Bank.
+5543.0,WELLTOWER INC,3655648575,Welltower,Welltower,False,1,2015-09-14 18:33:56,218,965,Welltower™ is driving the evolution of health care infrastructure so an aging population can live well.
+6066.0,INTL BUSINESS MACHINES CORP,18994444,IBM,IBM,True,1,2009-01-14 20:41:57,18591,612092,"Together with our clients, we're using technologies like AI, cloud, blockchain & IoT to transform business, industries and the world. Let’s put smart to work."
+6078.0,INTL FLAVORS & FRAGRANCES,2548353648,IFF,IFF,False,1,2014-06-05 16:02:28,2613,5924,Bringing science and creativity together to create what the world needs.
+7065.0,MARSH & MCLENNAN COS,1355214449104175106,Marsh & McLennan,MMC_Global,False,1,2021-01-29 18:01:29,1,5,"Marsh & McLennan Companies (NYSE: MMC) brings together 76,000 experts in risk, strategy and people across Marsh, Guy Carpenter, Mercer, and Oliver Wyman."
+7506.0,MOLEX INC,42738295,Molex,molexconnectors,True,1,2009-05-26 22:16:11,4141,10339,Molex makes a connected world possible by enabling technology that transforms the future and improves lives. #TeamMolex
+8358.0,PARKER-HANNIFIN CORP,112423234,Parker Hannifin,parkerhannifin,False,1,2010-02-08 12:58:33,19508,16603,Leader in motion & control technology. #Aerospace #Climate #Electromechanical #Filtration #FluidGas #Hydraulics #IoT #Pneumatics #Process #Seals @ParkerStore
+8463.0,PENTAIR PLC,3070701243,Pentair,Pentair,False,1,2015-03-04 20:19:20,668,3438,"We deliver smart, sustainable solutions that empower our customers to make the most of life's essential resources."
+9351.0,SAFECO CORP,45864627,Safeco Insurance,safecoinsurance,True,1,2009-06-09 15:43:39,4983,26219,"The official Twitter page of Safeco Insurance. We offer coverage for auto, home, motorcycle, RV, watercraft and more through independent insurance agents."
+9445.0,SCANA CORP,33983489,SCANA Energy,scanaenergy,False,1,2009-04-21 18:04:05,1932,2359,"A trusted natural gas provider in Georgia since 1998. Tweet our customer service reps Joyce, Sandra & Latoya for help, or call us at 1-877-467-2262."
+10453.0,TERADYNE INC,48026449,Teradyne,Teradyneinc,False,1,2009-06-17 16:51:17,1075,1811,"Transforming how the world lives, works and innovates through test and #automation"
+11220.0,VORNADO REALTY TRUST,17024278,vornado,vornado,False,1,2008-10-28 16:49:09,3911,1373,Famous for fans since 1945. Hellbent on the best heaters. Air Purifiers and Humidifiers too. How can we help you?
+11446.0,MEADWESTVACO CORP,189176466,WestRock,westrock,False,1,2010-09-10 15:43:20,4054,6521,WestRock is a global consumer & corrugated #packaging company focused on #connectingpeopletoproducts.
+11456.0,WEYERHAEUSER CO,374162887,Weyerhaeuser,Weyerhaeuser,False,1,2011-09-15 20:28:59,1949,5052,"Working together to be the world’s premier timber, land, and forest products company."
+11687.0,ZIONS BANCORPORATION NA,200262798,California Bank & Trust (CB&T),calbanktrust,True,1,2010-10-08 21:22:46,1947,1780,"California Bank & Trust is a commercial bank that champions local businesses and individuals. A division of Zions Bancorporation, N.A. Member FDIC."
+12053.0,EMC CORP/MA,10005212,Dell EMC,DellEMC,True,1,2007-11-06 17:58:17,24622,143046,Dell EMC enables digital transformation with trusted solutions for the modern data center. Need support? Tweet @DellEMCsupport
+12233.0,GENZYME CORP,32523291,Sanofi Genzyme,SanofiGenzyme,False,1,2009-04-17 19:00:25,5893,58747,"Sanofi Genzyme is the specialty care global business unit of @Sanofi. 
+For U.S. residents only. https://t.co/wJfaEs8SI2  
+MAT-US-2012506 | Approved June 2020."
+12950.0,AIRGAS INC,3252885140,Airgas,airgas,False,1,2015-06-22 16:56:32,1004,2296,"Official Twitter for Airgas, a leading U.S. single-source supplier of #gases, #welding and #safety products. Available M-F, 8am-6pm ET or call 1-866-935-3370. "
+13341.0,PROGRESSIVE CORP-OHIO,3331681,Progressive,progressive,True,1,2007-04-03 15:35:06,23015,74722,"More than 18 million people choose Progressive Insurance to insure their vehicles, making us one of America’s largest auto insurance groups."
+13498.0,CARNIVAL CORPORATION & PLC,2798188974,Carnival Corporation,CarnivalPLC,True,1,2014-09-08 16:35:42,13971,18945,"Official account for news from the world’s largest cruise company, Carnival Corporation & plc, and its nine global brands providing great vacation experiences."
+13721.0,ZOETIS INC,572929741,Zoetis,Zoetis,False,1,2012-05-06 19:08:27,1903,13581,"Welcome to the Zoetis global page. We’re committed to sharing news and info about the animal health industry, our company and our operations around the globe"
+14256.0,MAXIM INTEGRATED PRODUCTS,32618940,Maxim Integrated,maximintegrated,False,1,2009-04-17 22:11:26,9673,25010,Empowering Design Innovation
+14960.0,LABORATORY CP OF AMER HLDGS,57214964,Labcorp,Labcorp,False,1,2009-07-16 02:23:30,458,5268,"We believe in harnessing science for human good, through #diagnostictesting and #drugdevelopment. Consider us your source for advancing health."
+16245.0,PEOPLE'S UNITED FINL INC,209116528,People's United Bank,PeoplesUnited,False,1,2010-10-28 14:59:38,3449,2912,"Discover what know-how can do. By liking us, you agree to the Terms of Use. https://t.co/o9D2FtTHur
+People’s United Bank, N.A. Member FDIC. Equal Housing Lender"
+17130.0,SANTANDER HOLDINGS USA INC,1945165508,Santander Bank US,SantanderBankUS,True,1,2013-10-07 21:11:10,9197,6809,"It's our mission to help you prosper. Need support? We're here M-F 9 AM - 5 PM ET. Terms & Conditions: https://t.co/mf02sRzfIP 
+Member FDIC"
+17928.0,IQVIA HOLDINGS INC,3236469275,IQVIA US,IQVIA_US,False,1,2015-05-05 18:09:59,2253,3271,"IQVIA is the Human Data Science Company™, helping #healthcare clients make better, more insightful decisions and discover breakthroughs using #HumanDataScience"
+18086.0,MALLINCKRODT PLC,982375396263038977,Mallinckrodt,MNK,False,1,2018-04-06 21:52:00,664,1323,"At Mallinckrodt, we use strategic vision and employee-driven momentum to pursue a powerful mission: Managing Complexity. Improving Lives."
+25283.0,KOHL'S CORP,35880417,Kohl's,Kohls,True,1,2009-04-27 22:13:48,168249,771679,We reward the everyday. Every. Single. Day. Share your #KohlsCash wins with us! #LoveKohls (Customer service: https://t.co/XCDdHYEfFg)
+30923.0,TECHNIPFMC PLC,151441314,TechnipFMC,TechnipFMC,False,1,2010-06-03 12:21:46,1113,22666,"We are a global leader in the energy industry; delivering projects, products, technologies and services, transforming our customers’ project economics."
+60992.0,SUNEDISON INC,245901589,SunEdison,SunEdison,False,1,2011-02-01 18:18:10,1371,13907,"The official Twitter feed of SunEdison, the largest global renewable energy development company."
+61388.0,EVEREST RE GROUP LTD,24524448,Everest Group,EverestGroup,False,1,2009-03-15 13:41:12,18820,13111,Research about our clients’ most pressing concerns in IT / business process / engineering services. Accelerating value delivery & expediting business outcomes.
+63800.0,IMS HEALTH HOLDINGS INC,21127905,IMS Health,IMSHealth,True,1,2009-02-17 20:41:43,2222,7945,IMS Health has now merged with Quintiles - follow us on the new @QuintilesIMS
+64356.0,CIENA CORP,15211461,Ciena,Ciena,False,1,2008-06-23 20:26:06,17100,13689,"Ciena's official Twitter feed. We cover topics like #optical, #100G #400G #800G #SDN #NFV #CarrierEthernet #mobile #5G & all things #Networks and the #Internet"
+160256.0,METROPCS COMMUNICATIONS INC,103074428,Metro by T-Mobile,MetroByTMobile,True,1,2010-01-08 20:05:12,25275,99121,Rule your day with Metro by T-Mobile. #RuleYourDay
+176928.0,BROADRIDGE FINANCIAL SOLUTNS,15069827,Broadridge,broadridge,True,1,2008-06-10 04:51:22,4082,5003,"Broadridge, a S&P 500 global fintech leader, helps clients get ahead of today’s challenges to capitalize on what’s next."
+177264.0,COVIDIEN PLC,52846066,Medtronic,Medtronic,True,1,2009-07-01 20:48:12,4548,76185,"A global healthcare solutions company — committed to improving lives through our medical technologies, services, and solutions.  https://t.co/iIsZotRH8F"
+186106.0,MOTOROLA MOBILITY HLDGS INC,4851295378,Motorola,Moto,True,1,2016-01-26 21:49:15,6701,105909,"Official motorola Global Twitter! Get the lowdown on everything you need to know - from new product launches, exclusive access to unique content & more."
+1078.0,ABBOTT LABORATORIES,360054369,Abbott,AbbottNews,True,1,2011-08-22 16:23:33,11929,105670,"This is technology at its most personal, to help you live your best, healthiest life. #lifetothefullest https://t.co/6IcXSYxpuw"
+1177.0,AETNA INC,16188518,Aetna,Aetna,True,1,2008-09-08 18:20:24,14150,53307,"Every day, as part of @CVSHealth, we join you to help you on your path to better health🏃‍♀️🚴‍♂️🏊‍♂️ #CommunityHeart"
+1209.0,AIR PRODUCTS & CHEMICALS INC,109634966,Air Products,airproducts,True,1,2010-01-29 18:52:02,3832,11461,"Industry-leading company of 19,000+ dedicated employees innovating toward a more #sustainable future with #industrialgas solutions & cutting-edge technology."
+1300.0,HONEYWELL INTERNATIONAL INC,64764487,Honeywell,honeywell,True,1,2009-08-11 16:53:16,3411,58620,"At #Honeywell, we're transforming the way the world works. #futureshaper"
+1356.0,ALCOA INC,15085627,Alcoa,Alcoa,True,1,2008-06-11 15:24:02,6663,27570,"Alcoa is a global industry leader in bauxite, alumina and aluminum products, with a strong portfolio of cast and rolled products and substantial energy assets."
+1440.0,AMERICAN ELECTRIC POWER CO,41377904,AEP,AEPnews,True,1,2009-05-20 15:16:08,10501,16396,"The Official AEP account for latest news, info & updates from American Electric Power. We're here from 8 am-11 pm Mon-Fri & 8-5 weekends and holidays."
+1837.0,SOUTHERN CO GAS,43506751,SSGC Official,SSGC_Official,True,1,2009-05-30 09:25:59,5242,40394,Sui Southern Gas Company is Pakistan's leading integrated natural gas company involved in transmission and distribution of gas in Sindh and Balochistan.
+1878.0,AUTODESK INC,31957731,Autodesk,autodesk,True,1,2009-04-16 16:34:16,12007,286804,"3D design, engineering, and entertainment software and services. 
+Have a question? Visit our community forums: https://t.co/ADDNuPre2j"
+1891.0,AUTOMATIC DATA PROCESSING,19992977,ADP,ADP,True,1,2009-02-03 18:52:11,24216,47667,"HR, Talent, Time Management, Benefits and Payroll.  Informed by data and designed for people."
+1913.0,AVERY DENNISON CORP,166042524,Avery Dennison,AveryDennison,True,1,2010-07-13 05:05:58,6206,153162,We are a global materials science company specializing in the design and manufacture of a wide variety of labeling and functional materials.
+1976.0,BAKER HUGHES INC,859141322581606400,Avitas Systems,Avitas_Systems,True,1,2017-05-01 20:23:48,187,936,"A Baker Hughes venture company advancing inspection services with data analytics, robotics, and AI across industrial industries."
+1995.0,CONSTELLATION ENERGY GRP INC,35742491,Constellation,ConstellationEG,True,1,2009-04-27 13:37:44,8012,11906,"Constellation, an Exelon company, is a leading supplier of energy products & services."
+2019.0,BANK OF NEW YORK MELLON CORP,167562319,BNY Mellon,BNYMellon,True,1,2010-07-16 22:33:40,6110,33271,BNY Mellon delivers informed investment management and investment services in 35 countries and serves clients around the world. https://t.co/m76x8p2xDf
+2490.0,BURLINGTON NORTHERN SANTA FE,53417856,BNSF Railway,BNSFRailway,True,1,2009-07-03 15:46:02,5578,42446,BNSF Railway is an Equal Opportunity Employer. Follows are not endorsements. Call 800-832-5452 to report track or crossing issues. Account not monitored 24/7.
+2751.0,CARDINAL HEALTH INC,256225105,Cardinal Health,cardinalhealth,True,1,2011-02-22 22:41:04,4508,16597,"The news handle for Cardinal Health on Twitter, providing up-to-date info and announcements from the public relations team. Twitter disclaimer below."
+2817.0,CATERPILLAR INC,15101714,CaterpillarInc,CaterpillarInc,True,1,2008-06-12 22:00:06,12464,138197,"For more than 90 years, Caterpillar Inc. has been making sustainable progress possible and driving positive change on every continent."
+2991.0,CHEVRON CORP,21021891,Chevron,Chevron,True,1,2009-02-16 20:16:08,15987,374507,"our greatest resource is our people. their ingenuity & creativity have met the complex challenges of energy’s past. together, we’ll take on the future."
+3121.0,CLOROX CO/DE,511068440,The Clorox Company,CloroxCo,True,1,2012-03-02 00:00:27,3451,3421,"Your official home for updates on The Clorox Company. Through our family of brands, we champion people to be well and thrive every single day."
+3243.0,CITIGROUP INC,79320096,Citi,Citi,True,1,2009-10-02 23:45:06,18445,912548,Serving as a trusted partner to our clients by responsibly providing financial services that enable growth & economic progress. Customer service: @AskCiti
+3336.0,DXC TECHNOLOGY CO,599689553,DXC Technology,DXCTechnology,True,1,2012-06-05 00:40:02,22074,33161,We help our customers across the entire enterprise tech stack with differentiated industry solutions. Connect with our award-winning teams across the world.
+3413.0,CONSOLIDATED EDISON INC,20262083,Con Edison,ConEdison,True,1,2009-02-06 19:13:04,31595,41671,Official Twitter handle for Con Edison. For gas odors leave area & call 911. Report power issues at https://t.co/lVVABPWFeG. Contact us at 1-800-75-CONED.
+3650.0,CUMMINS INC,87299367,Cummins Inc.,Cummins,True,1,2009-11-03 22:26:00,3886,123843,"We live in an Always On world that stands at the gateway of a more sustainable future. At Cummins, we're inventing the technology that will take us there."
+3897.0,DTE ENERGY CO,56693003,DTE_Energy,DTE_Energy,True,1,2009-07-14 13:28:57,28272,26479,Providing breaking news and tips from Michigan’s largest electric and gas company. Got a question? Message us from 8am-11pm seven days a week.
+4016.0,DOLLAR GENERAL CORP,84087294,Dollar General,DollarGeneral,True,1,2009-10-21 14:05:44,21730,83751,"With 17,000 stores, we’re here to Serve Others one community at a time. Save even more every day at Dollar General."
+4060.0,DOW CHEMICAL,15695369,Dow,DowNewsroom,True,1,2008-08-01 22:16:15,14977,70994,We are a materials science company dedicated to giving our customers the solutions they need to achieve their goals and create a better tomorrow. #SeekTogether
+4087.0,DU PONT (E I) DE NEMOURS,24054721,DuPont,DuPont_News,True,1,2009-03-12 22:27:38,23766,66744,"For over 200 years DuPont has been innovating around you, reinventing itself to bring technology-driven solutions to customers worldwide. Invent a better now."
+4093.0,DUKE ENERGY CORP,81192849,Duke Energy,DukeEnergy,True,1,2009-10-09 20:14:52,43822,110466,Follow us for all the latest news about Duke Energy. Customers can report outages at https://t.co/gXdbzJZkPs. If you suspect an emergency please call 911.
+4383.0,ATMOS ENERGY CORP,29976734,atmosenergy,atmosenergy,True,1,2009-04-09 12:50:58,6779,4990,"This account is not monitored 24/7. If you smell natural gas or suspect gas leak, leave the area immediately and call our 24/7 emergency line: 866.322.8667."
+4423.0,EQUIFAX INC,268020193,Equifax Inc.,Equifax,True,1,2011-03-18 00:38:16,7747,20839,"Equifax is a global information solutions company that uses unique data, analytics, tech & expertise to power organizations and individuals around the world."
+4560.0,FAMILY DOLLAR STORES,144841605,Family Dollar,myfamilydollar,True,1,2010-05-17 12:59:45,8676,46507,"Welcome to the official Twitter account of Family Dollar, your home for savings on the products you love…all in 280 characters or less!"
+4611.0,MACY'S INC,50687788,Macy's,Macys,True,1,2009-06-25 16:13:12,128408,910540,Must-have fashion & exciting events. Share your fave finds with #macyslove. Need help? DM us.
+4640.0,FIFTH THIRD BANCORP,231213589,Fifth Third Bank,FifthThird,True,1,2010-12-27 22:47:48,27125,38113,"We’re here to support your banking needs. Visit https://t.co/GZrBD5oIqE for tips and support. Fifth Third Bank, N.A. Member FDIC."
+4674.0,REGIONS FINANCIAL CORP,402318272,Regions Bank,askRegions,True,1,2011-10-31 21:50:02,50919,22991,"We will respond to tweets Monday-Friday between 8am-5pm CT, and Saturday 8am-12pm."
+4723.0,U S BANCORP,15577098,U.S. Bank,usbank,True,1,2008-07-24 03:58:55,29452,41761,"Official account of U.S. Bank NA. Member FDIC. Equal Housing Lender. For banking help, tweet @askusbank."
+4885.0,FRANKLIN RESOURCES INC,337847812,Franklin Templeton,fti_global,True,1,2011-07-18 17:39:20,8001,103455,Official Franklin Templeton account for non-US investors. Follow us for global investment perspectives.
+5234.0,GOODYEAR TIRE & RUBBER CO,1578583062,Goodyear,goodyear,True,1,2013-07-08 20:52:57,1982,37184,The official Goodyear Tire & Rubber Co Twitter account affiliated with @GoodyearBlimp and @GoodyearRacing. Wishing you all a #Goodyear.
+5256.0,GRAINGER (W W) INC,155541003,Grainger,grainger,True,1,2010-06-14 12:24:15,9602,26346,Grainger is here for you—the hard-working people who keep facilities running and workers working day and night.
+5439.0,HALLIBURTON CO,288290125,Halliburton,Halliburton,True,1,2011-04-26 15:51:09,2309,59659,One of the world's largest providers of products and services to the energy industry.
+5709.0,HORMEL FOODS CORP,12494562,Hormel Foods,HormelFoods,True,1,2008-01-21 14:29:19,16068,63980,"Official tweets of Hormel Foods Corporation - Inspired People. Inspired Food.™
+
+©Hormel Foods, LLC"
+5786.0,HUNTINGTON BANCSHARES,78067917,Huntington Bank,Huntington_Bank,True,1,2009-09-28 17:20:41,6668,21085,Official Twitter feed for Huntington Bank. Member FDIC. https://t.co/wRyH3jl2s0
+6307.0,SEARS HOLDINGS CORP,19464428,Sears,Sears,True,1,2009-01-24 21:33:16,87826,202161,"making moments matter™. The big, the little, the in-between. We’re here for yours. #iheartsears"
+6435.0,KIMBERLY-CLARK CORP,151233724,Kimberly-Clark Corp.,KCCorp,True,1,2010-06-02 23:11:40,6500,29102,Kimberly-Clark and our well-known brands are passionate about providing you with the essentials for a better life.
+6669.0,LENNAR CORP,15397465,Lennar,Lennar,True,1,2008-07-11 22:13:09,29133,251686,"Lennar is a national homebuilding company, offering new homes across America in the most desirable real estate markets."
+6768.0,KATE SPADE & CO,39601084,kate spade new york,katespadeny,True,1,2009-05-12 21:29:50,19448,823724,"who we are is intertwined with who you are. we are all the heroines of
+our own stories. we are kate spade new york."
+7116.0,MATTEL INC,98458823,MATTEL,Mattel,True,1,2009-12-21 20:01:40,19603,191695,We are a creations company that inspires the wonder of childhood!
+7154.0,MCDONALD'S CORP,111679943,McDonald's Corporation,McDonaldsCorp,True,1,2010-02-05 19:57:44,253689,168349,"We’re feeding and fostering communities around the world. Follow along for updates from McDonald's.
+
+For customer service support, visit: https://t.co/rJg2eBuxTH"
+7228.0,MEDTRONIC PLC,52846066,Medtronic,Medtronic,True,1,2009-07-01 20:48:12,4548,76185,"A global healthcare solutions company — committed to improving lives through our medical technologies, services, and solutions.  https://t.co/iIsZotRH8F"
+7260.0,MEREDITH CORP,486933781,Meredith Corporation,MeredithCorp,True,1,2012-02-08 20:42:05,1546,7124,"Meredith is the leading media and marketing company inspiring 190 million American consumers every month, including nearly 95% of U.S. Millennial Women."
+7343.0,MICRON TECHNOLOGY INC,19037711,Micron Technology,MicronTech,True,1,2009-01-15 20:35:42,4425,21171,We're accelerating the transformation of information to intelligence.
+7637.0,MYLAN NV,293754638,Mylan,MylanNews,True,1,2011-05-05 22:35:21,2350,12102,"We have combined with Upjohn, formerly a division of Pfizer, and are now @ViatrisInc Follow along on our new journey. https://t.co/25nB2194BV"
+7977.0,XCEL ENERGY INC,16875752,Xcel Energy Center,XcelEnergyCtr,True,1,2008-10-20 21:57:14,14997,29644,"America’s most intimate arena. Home of the @mnwild. Follow us for updates on sporting events, family shows, concerts + more. Share your moments using #MyXEC!"
+8247.0,PPG INDUSTRIES INC,30138131,PPG,PPG,True,1,2009-04-10 02:37:12,6032,26536,"A global innovator in paints, coatings and materials. PPG: We protect and beautify the world."
+8264.0,PG&E CORP,31496613,Pacific Gas & Electric,PGE4Me,True,1,2009-04-15 19:43:47,16236,132895,"The official account of Pacific Gas and Electric Company. For emergency assistance call 911, for non-emergencies: 1-800-743-5000."
+8479.0,PEPSICO INC,21346619,PepsiCo,PepsiCo,True,1,2009-02-19 22:24:53,28727,347999,"News, innovation, global inspiration & more from @PepsiCo"
+8549.0,CONOCOPHILLIPS,23449774,ConocoPhillips,conocophillips,True,1,2009-03-09 15:45:42,4994,165161,We exist to power civilization - Tweets from the ConocoPhillips communications team
+8551.0,PVH CORP,996012569117806595,PVHCorp,PVHCorp,True,1,2018-05-14 13:01:16,783,2514,"The Power of Us. The Power of PVH: CALVIN KLEIN, TOMMY HILFIGER, Van Heusen, IZOD, ARROW, Warner’s, Olga, Geoffrey Beene, True&Co"
+8606.0,PITNEY BOWES INC,33606835,Pitney Bowes,PitneyBowes,True,1,2009-04-20 18:17:24,35766,28363,"Crafting commerce solutions in the areas of e-commerce, financing, shipping, and mailing. Visit @PBCares for customer service."
+8823.0,PULTEGROUP INC,16630436,Pulte Homes,PulteHomes,True,1,2008-10-07 14:36:56,7304,30890,Pulte Homes are built for life and how you live it! Homeowner assistance: socialcare@pultegroup.com.
+9203.0,ROCKWELL AUTOMATION,44627268,Rockwell Automation,ROKAutomation,True,1,2009-06-04 14:28:40,10277,39274,Rockwell Automation Inc. (NYSE: ROK) We are #ExpandingHumanPossibility by connecting the imaginations of people with the potential of technology
+9359.0,SAFEWAY INC,29286254,Safeway,Safeway,True,1,2009-04-06 20:33:20,71890,76907,"We're a part of your neighborhood, providing fresh ingredients and more ways to save. https://t.co/by9SDvE9Na"
+9459.0,SCHERING-PLOUGH,35961145,Merck,Merck,True,1,2009-04-28 02:40:05,8656,203601,We have always been and always will be inventing for the single greatest purpose: Life. Intended for U.S. residents only. FLS: https://t.co/unmH53cudx
+9667.0,SHERWIN-WILLIAMS CO,111372861,Sherwin-Williams,SherwinWilliams,True,1,2010-02-04 18:00:56,10766,144443,"Your neighborhood store for paints, stains, supplies and color. 🎨 Share your project pics using #SWColorLove. 🛒 Order online: https://t.co/up76zy2Uzv"
+9783.0,KEYCORP,488904431,KeyBank,keybank,True,1,2012-02-10 23:55:44,5876,23559,Helping our communities and clients get ready for tomorrow. Contact customer service @KeyBank_Help. Images shared may be used for marketing. Member FDIC
+10187.0,SUNTRUST BANKS INC,68506780,SunTrust,SunTrust,True,1,2009-08-24 20:58:24,3752,23948,SunTrust and BB&T have joined to become Truist. We're building a better future together. https://t.co/wmvY0dyYmx #truist
+10466.0,ANDEAVOR,1566547009,Andeavor,andeavor,True,1,2013-07-03 19:33:15,1109,3553,"Andeavor has combined with @MarathonPetroCo, creating the leading U.S. refining, midstream and marketing company."
+10530.0,THERMO FISHER SCIENTIFIC INC,62862144,Thermo Fisher,thermofisher,True,1,2009-08-04 16:36:54,11816,55641,"Thermo Fisher Scientific Inc. is the world leader in serving science. Our mission is to enable our customers to make the world healthier, cleaner and safer."
+10787.0,TYCO INTERNATIONAL PLC,1280469980,Johnson Controls,johnsoncontrols,True,1,2013-03-19 13:43:00,3680,27925,"105,000 experts globally, dedicated to protecting the environment in a 150 countries & 130 years of innovation, we are the power behind our customers’ mission."
+10860.0,AMEREN CORP,55526996,Ameren Corporation,AmerenCorp,True,1,2009-07-10 10:31:28,3263,30013,Powering the quality of life for 2.4 million electric and 1 million natural gas customers in Illinois and Missouri.
+10903.0,UNITEDHEALTH GROUP INC,917104380,UnitedHealth Group,UnitedHealthGrp,True,1,2012-10-31 15:33:18,2457,35527,Helping people live healthier lives and helping make the health system work better for everyone. Media inquiries: https://t.co/LUd3techX6
+10920.0,UNITED PARCEL SERVICE INC,158129535,UPS,UPS,True,1,2010-06-21 21:34:59,48799,249556,Stay connected to global trade & logistics. Tweets by the UPS Social Team. Question about a package? Ask @UPSHelp. See link in bio for our coronavirus response.
+11465.0,WHIRLPOOL CORP,17288348,Whirlpool Corporation,WhirlpoolCorp,True,1,2008-11-10 15:29:24,15104,30256,Welcome to the Official Twitter Account of The World’s Leading Kitchen and Laundry Appliance Company | Customer Service: @WhirlpoolCare | 800-253-1301
+11856.0,TRUIST FINANCIAL CORP,1138469361944014850,Truist,TruistNews,True,1,2019-06-11 15:33:42,376,2974,@BBT and @SunTrust have joined to become Truist. See the latest news from our company. For client inquiries: @BBT @AskSunTrust https://t.co/KL8GLcVisy
+12123.0,BIG LOTS INC,15681343,biglots,BigLots,True,1,2008-07-31 21:58:35,14295,158307,"Live BIG and Save Lots. We help you create cherished memories with affordable solutions for every season, gathering, and celebration! #BigLots"
+12151.0,COTY INC,456525263,Coty Inc.,COTYInc,True,1,2012-01-06 10:35:12,833,6073,We celebrate and liberate the diversity of your beauty.
+12389.0,HARLEY-DAVIDSON INC,17169239,Harley-Davidson,harleydavidson,True,1,2008-11-04 21:15:24,16869,449306,The official Twitter feed for the Harley-Davidson Motor Company. #HarleyDavidson
+12635.0,FISERV INC,18506925,Fiserv,Fiserv,True,1,2008-12-31 14:24:51,10733,22007,Fiserv (NASDAQ: FISV) is a leading global technology provider serving the financial services industry.
+12756.0,COCA-COLA EUROPEAN PARTNERS,17777338,Coca-Cola EP,CocaColaEP,True,1,2008-12-01 12:05:39,4474,8828,"Official tweets from Coca-Cola European Partners (CCEP) the world’s largest independent Coca-Cola bottler, based on net sales."
+13041.0,SYNOVUS FINANCIAL CORP,1110556345,Synovus,synovus,True,1,2013-01-22 03:42:22,2109,2442,"Synovus (NYSE:SNV) provides retail and commercial banking, investment, and mortgage services. We respond to tweets Mon-Fri 8am-5pm and Sat 8am-1pm ET."
+13988.0,SCHWAB (CHARLES) CORP,132703700,Charles Schwab Corp,CharlesSchwab,True,1,2010-04-13 23:47:47,23192,109241,Be a more informed investor. Follow us for news and insights to help you #Ownyourtomorrow. Disclosures: https://t.co/nswxFWPqQc
+14225.0,FASTENAL CO,109268832,Fastenal Company,fastenalcompany,True,1,2010-01-28 14:06:00,5235,12481,#Fastenal is a business-to-business supply chain solutions company and a wholesale distributor of industrial and construction supplies. #WeAreWhereYouAre
+14275.0,FIRST REPUBLIC BANK,34715589,First Republic Bank,firstrepublic,True,1,2009-04-23 20:13:57,8251,47176,First Republic is a private bank with service at the forefront. It's a privilege to serve you. Member FDIC. Equal Housing Lender.
+14535.0,EW SCRIPPS  -CL A,125368024,The E.W. Scripps Co.,EWScrippsCo,True,1,2010-03-22 15:46:17,5306,8017,Scripps advances understanding of the world through journalism.
+14934.0,DEVON ENERGY CORP,21628891,Devon Energy,DevonEnergy,True,1,2009-02-23 03:51:18,1314,14360,Devon is a leading oil and gas producer in the U.S. with a premier multi-basin portfolio headlined by a world-class acreage position in the Delaware Basin. $DVN
+15247.0,VALERO ENERGY CORP,846805558812463106,Valero Energy,ValeroEnergy,True,1,2017-03-28 19:25:52,804,8373,"The official Twitter of Valero. Fuel isn’t just about driving, but the drive to achieve greatness. Follow us and see what happens when you fuel the unexpected."
+15521.0,STAPLES INC,3288805558,Staples,Staples,True,1,2015-05-18 17:54:44,5257,4130,"We help teams find fulfillment in Worklife by connecting people, ideas and solutions."
+16101.0,ABBVIE INC,531892451,AbbVie,abbvie,True,1,2012-03-21 03:42:59,6622,68828,AbbVie's global handle featuring biopharmaceutical news & updates managed by our corp digital team. Review our guidelines here: http://t.co/qwZuFRpxk5
+18699.0,PTC INC,207505157,PTC,PTC,True,1,2010-10-25 13:15:11,21058,38786,PTC unleashes industrial innovation with market-proven solutions that enable companies to drive #digitaltransformation. Learn more: https://t.co/ODzG00fkc5
+20548.0,CABOT OIL & GAS CORP,317777055,Cabot Oil & Gas Corporation,CabotOG,True,1,2011-06-15 13:21:57,4560,22442,"A leading independent North American natural gas producer with activity focused on Marcellus Shale in northeastern PA
+(NYSE:COG) https://t.co/JV1bOgQ6Ry"
+20686.0,SYNCHRONY FINANCIAL,16366375,Synchrony,synchrony,True,1,2008-09-19 17:29:35,4671,12803,"We’re changing what’s possible for people & businesses in all sorts of ways. For acct support: @AskSynchrony Sun 8a-9p, M/T 8a-10p, W/T 8a-8p, F/S 8a-10p EST"
+20748.0,ARISTA NETWORKS INC,57422003,Arista Networks,AristaNetworks,True,1,2009-07-16 19:29:29,1595,15693,Official news and tweets of Arista Networks: The New Standard in Software Driven Cloud Networking. NYSE: $ANET
+22260.0,HCA HEALTHCARE INC,64481865,HCA Healthcare,HCAhealthcare,True,1,2009-08-10 18:56:51,4720,14594,"Above all else, we are committed to the care and improvement of human life."
+22325.0,XILINX INC,38303040,Xilinx,XilinxInc,True,1,2009-05-06 23:11:19,11513,33430,"Xilinx is the inventor of the #FPGA, programmable SoCs, and now, the #ACAP. 
+#AI #DataCenter #5G"
+23812.0,REGENERON PHARMACEUTICALS,23077762,Regeneron,Regeneron,True,1,2009-03-06 15:40:42,4339,27551,Official channel for Regeneron. We turn science into medicine for people with serious diseases. View our terms of engagement here https://t.co/of3QRL6CsA
+24316.0,MONSTER BEVERAGE CORP,63253045,Monster Energy,MonsterEnergy,True,1,2009-08-05 20:51:48,19324,3060049,"#UnleashTheBeast
+https://t.co/qgChRebwPI
+https://t.co/ul5xeAYPNW 
+https://t.co/APqiKknunY
+https://t.co/onacwQzm8B"
+24344.0,VERTEX PHARMACEUTICALS INC,17542775,Vertex Pharmaceuticals,VertexPharma,True,1,2008-11-21 18:52:48,2877,65512,The official Twitter channel dedicated to media announcements & investor communications from Vertex Pharmaceuticals. https://t.co/wq0shH7UfM…
+24468.0,BIOGEN INC,155650832,Biogen,biogen,True,1,2010-06-14 18:40:14,4880,36752,Official Twitter channel for Biogen. Focused on cutting-edge science and medicine. Community guidelines: http://t.co/Y0FFAiHjRU
+24856.0,GILEAD SCIENCES INC,309728693,Gilead Sciences,GileadSciences,True,1,2011-06-02 15:32:31,3466,66225,The impossible is not impossible. It’s simply what hasn’t been achieved yet. Twitter guidelines: https://t.co/d5rgWCmRtR.
+24975.0,SYNOPSYS INC,19244527,Synopsys Software Integrity,SW_Integrity,True,1,2009-01-20 16:50:41,16057,6455,"The official Twitter account for @Synopsys Software Integrity. Helping #DevSecOps Build secure, high-quality software faster."
+25124.0,LINDE PLC,29173469,Linde plc,Lindeplc,True,1,2009-04-06 09:51:08,3347,13957,Linde is a leading global industrial gases and engineering company working in more than 100 countries worldwide. Imprint: https://t.co/nCOI9jxjGX…
+25338.0,BED BATH & BEYOND INC,372817561,Bed Bath & Beyond,BedBathBeyond,True,1,2011-09-13 13:38:54,75896,178014,Welcome to our page where you'll find tips & solutions for your home and beyond. Need help? Send us a message! Share your finds with #bedbathandbeyond.
+25340.0,D R HORTON INC,113137199,D.R. Horton,DRHorton,True,1,2010-02-10 20:46:42,9801,15230,"Official Twitter of #DRHorton Homes. Founded in 1978 - America's Largest #Home Builder. #HomeIsDRHorton
+Questions or concerns? https://t.co/DlnlnmjDHD"
+25356.0,EXPRESS SCRIPTS HOLDING CO,42867610,Express Scripts,ExpressScripts,True,1,2009-05-27 12:09:19,6908,22131,"We’re united with our partners in pursuit of a simpler, more sustainable system and better health for all. For customer service, please use @ExpressRxHelp."
+26304.0,CSRA INC,4189196009,CSRA Inc.,CSRA_inc,True,1,2015-11-14 21:27:26,2565,3717,"Every day CSRA brings next generation thinking, delivered today."
+27333.0,ADIENT PLC,845236567,Adient,Adient,True,1,2012-09-25 10:02:38,2609,10177,"Adient is one of the world's largest, most comprehensive automotive seating and components suppliers."
+27928.0,INTUIT INC,1125071,Intuit,intuit,True,1,2007-03-13 23:41:34,25365,77394,"Proud makers of @TurboTax, @QuickBooks, and @Mint. We’re a mission-driven, global financial platform company that gives everyone the opportunity to prosper."
+27965.0,MICROCHIP TECHNOLOGY INC,16351266,MicrochipTech,MicrochipTech,True,1,2008-09-18 19:07:39,17910,50582,"8-/16-/32-bit MCUs, analog and Flash-IP solutions. We will be most able to respond to customer questions between the hours of 7 am to 5 pm MST"
+28180.0,O'REILLY AUTOMOTIVE INC,32516857,O'Reilly Auto Parts,oreillyauto,True,1,2009-04-17 18:43:06,5724,40569,"Share your #projectcars with us and check in for #DIY tips, advice, and all things O'Reilly Auto. 
+#OReillyPowered to be featured."
+28191.0,ROYAL CARIBBEAN CRUISES LTD,388926026,Celebrity Cruises,CelebrityCruise,True,1,2011-10-11 15:29:39,15232,113081,"Official account of Celebrity Cruises | Royal Caribbean Cruises Ltd.1050 Caribbean Way Miami, FL 33132 (305) 341-0204 Privacy Policy: https://t.co/XZNp9GlmHM"
+28877.0,KEURIG DR PEPPER INC,19720019,Dr Pepper,drpepper,True,1,2009-01-29 16:56:30,62661,430337,"Working hard or hardly working? Either way, you deserve a delicious treat. Reward yourself with Dr Pepper’s unique blend of 23 flavors."
+29392.0,EASTMAN CHEMICAL CO,76979060,Eastman Chemical Co.,EastmanChemCo,True,1,2009-09-24 16:26:09,1703,9097,Eastman is a global advanced materials and specialty additives company that produces a broad range of products found in items people use every day.
+31846.0,DARDEN RESTAURANTS INC,372854615,Darden Restaurants,darden,True,1,2011-09-13 14:58:58,3481,15180,"Across every one of our unique brands and in every role, we’re creating a company that matters. Official news, updates and stories from Darden Restaurants."
+33439.0,PERSPECTA INC,839183799271452672,Perspecta,Perspecta,True,1,2017-03-07 18:39:43,1127,1488,"Perspecta was formed to take on the big challenges, and we know what it takes to enable our customers to build a better nation. In fact, we do that every day."
+35035.0,KONTOOR BRANDS INC,1067458902789373952,"Kontoor Brands, Inc.",KontoorBrands,True,1,2018-11-27 16:43:29,145,1358,Kontoor is a global lifestyle apparel company with a portfolio of iconic denim brands @Wrangler @LeeJeans. Follow us for official company news & updates.
+61483.0,DAVITA INC,28676469,DaVita,DaVita,True,1,2009-04-03 22:50:07,15068,15237,"Committed to bold, patient-centric care models, implementing the latest technologies and moving toward integrated care offerings for all. #DaVitaWay"
+61494.0,HENRY SCHEIN INC,17610945,Henry Schein,HenrySchein,True,1,2008-11-25 03:38:50,5779,25533,"Henry Schein, Inc. is a solutions company for health care professionals powered by a network of people and technology. We are #TeamSchein!
+Nasdaq: $HSIC"
+61574.0,WATERS CORP,56758053,Waters Corporation,WatersCorp,True,1,2009-07-14 17:34:41,18177,17728,Improving human health and well-being through the application of high-value analytical technologies and industry leading scientific expertise
+61739.0,HARTFORD FINANCIAL SERVICES,19614674,The Hartford,TheHartford,True,1,2009-01-27 20:40:09,5144,39855,Underwriting human achievement for over two hundred years. Follow us on Instagram: https://t.co/fpIABr62m2
+62263.0,ALEXION PHARMACEUTICALS INC,246664765,Alexion,AlexionPharma,True,1,2011-02-03 06:37:18,1044,9765,Alexion is focused on developing & delivering life-changing medicines for people living with rare diseases. Community guidelines: https://t.co/iydKfRxfyE
+63080.0,ANSYS INC,33647963,Ansys,ANSYS,True,1,2009-04-20 20:20:58,21302,24120,Official Ansys Twitter. #engineering #simulation software   #cfd #fea #hpc #electronics #turbomachinery #iot #multiphysics #5G #electrification #autonomous
+63501.0,E TRADE FINANCIAL CORP,32570672,E*TRADE,etrade,True,1,2009-04-17 20:38:01,18931,77922,"Welcome to E*TRADE. Follow us for financial insights, commentary, product news and educational events. Disclosure: https://t.co/BJtul9VAM5"
+63892.0,NATIONAL OILWELL VARCO INC,2588219916,NOV,NOVGlobal,True,1,2014-06-25 21:19:48,1604,5711,The official Twitter page of National Oilwell Varco.
+64166.0,QUEST DIAGNOSTICS INC,76481951,Quest Diagnostics,QuestDX,True,1,2009-09-22 23:06:29,9869,11457,Quest Diagnostics empowers people to take action to improve health outcomes.
+66065.0,UNITED RENTALS INC,41848888,United Rentals,UnitedRentals,True,1,2009-05-22 16:39:27,6941,6812,"The official Twitter account for United Rentals, Inc. the largest equipment rental company, with 1100+ rental locations throughout North America & Europe."
+66368.0,VERISIGN INC,19775248,VERISIGN,VERISIGN,True,1,2009-01-30 16:41:30,9663,47667,A global provider of domain name registry services and internet infrastructure.
+100873.0,NIELSEN HOLDINGS PLC,15996830,Nielsen,nielsen,True,1,2008-08-26 14:21:54,20984,197607,Helping the world understand media insights. 📺
+117768.0,NVIDIA CORP,61559439,NVIDIA,nvidia,True,1,2009-07-30 18:25:14,11696,1701213,The official handle for NVIDIA. Blog: https://t.co/ohDSqeDJ1D Support: https://t.co/DAKuuuZIg5 All NVIDIA Social Media: https://t.co/MeX69boOTQ
+118122.0,APTIV PLC,815759221,Aptiv,Aptiv,True,1,2012-09-10 18:20:44,5214,17096,"Aptiv is a global technology company that develops safer, greener and more connected solutions enabling the future of mobility. #ItsOurMove"
+119314.0,BOOKING HOLDINGS INC,4705763776,Booking Holdings,BookingHoldings,True,1,2016-01-04 14:46:43,2124,10403,"We make it easier for everyone to experience the world through our brands @bookingcom, @kayak, @priceline, @opentable, @agoda and https://t.co/2NxTQDdboS."
+124434.0,BLACKROCK INC,23756134,BlackRock,blackrock,True,1,2009-03-11 12:41:19,14831,435787,We are a global investment manager and technology provider. We are invested in your financial well-being. Disclosures: https://t.co/RdhTcNYQRf
+125595.0,AKAMAI TECHNOLOGIES INC,19622847,Akamai Technologies,Akamai,True,1,2009-01-27 22:58:24,24594,112654,"Akamai secures and delivers digital experiences for the world’s largest companies, keeping apps and experiences closer to users — and threats far away."
+126554.0,AGILENT TECHNOLOGIES INC,59540047,Agilent ChemAnalysis,AgilentChem,True,1,2009-07-23 18:05:54,9422,13854,"Agilent's Chemical Analysis Group offers lab & mobile measurement systems & solutions for enviro, food, forensic, energy/chemical, materials testing & more."
+133366.0,EDWARDS LIFESCIENCES CORP,3040464564,Edwards Lifesciences,EdwardsLifesci,True,1,2015-02-24 23:40:47,1573,8900,Official feed of Edwards Lifesciences. Committed to addressing the unmet needs of patients with structural heart disease and the critically ill.
+135990.0,NRG ENERGY INC,32880255,"NRG Energy, Inc.",nrgenergy,True,1,2009-04-18 13:25:58,4371,24755,"A Fortune 500, NRG is the leading integrated power company in the United States."
+140541.0,TAPESTRY INC,73200694,Coach,Coach,True,1,2009-09-10 19:38:59,10617,616677,The original American house of leather.
+141459.0,GARMIN LTD,15324722,Garmin,Garmin,True,1,2008-07-05 10:35:39,62960,206915,Engineered on the inside for life on the outside. Questions? Visit https://t.co/X8hmSwm2ec. For more visit us at https://t.co/8Vs2SYClHA or in person https://t.co/qdt7qb1g5s.
+142460.0,PEABODY ENERGY CORP,787750740,Peabody,peabodyenergy,True,1,2012-08-28 20:04:33,2393,8516,"Peabody is the leading global pure-play coal company, serving power and steel customers in more than 25 countries on six continents."
+144009.0,WILLIS TOWERS WATSON PLC,1137306073,Willis Towers Watson,WTWesp,True,1,2013-01-31 16:06:56,3034,1933,"Tú ves el futuro. Nosotros te ayudamos a llegar a él. Gestionamos #personas, #riesgos y #capital para convertirlos en oportunidades de crecimiento."
+145046.0,ANTHEM INC,435302260,"Anthem, Inc.",AnthemInc,True,1,2011-12-12 22:21:27,8403,35586,Our companies work to bring affordable quality care to consumers. Follow us for the latest health care insights. Corp responsibility @AnthemFDN
+145049.0,GAMESTOP CORP,148937232,GameStop Corp.,gamestopcorp,True,1,2010-05-28 00:34:46,2046,27431,Tweets from the @gamestop communications team with news from its family of specialty retail brands. Customer or product issues? Email us at twitter@gamestop.com
+150937.0,SEAGATE TECHNOLOGY PLC,14762127,Seagate,Seagate,True,1,2008-05-13 17:59:45,30866,170828,The world leader in storage solutions. Pioneering the datasphere. For support @AskSeagate
+158354.0,GENWORTH FINANCIAL INC,15849929,Genworth,Genworth,True,1,2008-08-14 13:10:22,3758,4691,Helping families have “the talk” about long term care planning. Need us? Call 888-GENWORTH.
+160479.0,EXTRA SPACE STORAGE INC,17379892,Extra Space Storage,extraspace,True,1,2008-11-14 03:49:17,13847,5655,Life transitions are difficult. We make them easier.
+160991.0,DIGITAL REALTY TRUST INC,2413410307,Digital Realty APAC,DigitalAPAC,True,1,2014-03-27 01:04:59,2174,18225,Leading provider of data centre solutions in Asia Pacific and around the globe.  https://t.co/14nLpiX5G4
+164708.0,AMERIPRISE FINANCIAL INC,164011937,Ameriprise Financial,ameriprise,True,1,2010-07-07 20:48:05,960,6528,"As a leader in financial planning, Ameriprise Financial, LLC. has helped millions of clients achieve their financial goals for more than 120 years."
+174490.0,WINDSTREAM HOLDINGS INC,17049354,Windstream,Windstream,True,1,2008-10-29 19:38:53,6863,20888,Windstream is an innovative communications & software company offering managed communications services to businesses and high-speed internet to consumers
+174729.0,WYNDHAM DESTINATIONS INC,3957426327,Wyndham Destinations,wyndestinations,True,1,2015-10-14 16:48:37,535,1114,We believe in putting the world on #vacation. We believe in finding your perfect place. We believe in hospitality with heart. Our world is your #destination.
+177376.0,DISCOVER FINANCIAL SVCS,16147150,Discover,Discover,True,1,2008-09-05 18:11:30,137147,101379,"Taking on your financial future can start today. Discover. #SomethingBrighter. For customer service, you can send us a message at the link below."
+178507.0,MSCI INC,59155308,MSCI,MSCI_Inc,True,1,2009-07-22 15:30:21,5650,19587,"An independent provider of research-driven insights, tools & #indices for investors, based on over 50 years’ academic research & real-world experience."
+178704.0,ULTA BEAUTY INC,28134825,Ulta Beauty,ultabeauty,True,1,2009-04-01 16:14:57,89798,646273,The Possibilities Are Beautiful.✨
+179437.0,AMERICAN WATER WORKS CO INC,25565709,American Water,amwater,True,1,2009-03-20 20:05:18,4996,13810,We Keep Life Flowing
+179700.0,DR PEPPER SNAPPLE GROUP INC,23196059,Dr Pepper Snapple,DrPepperSnapple,True,1,2009-03-07 14:23:28,2975,7383,Serving up flavorful tweets from Dr Pepper Snapple Group.
+183377.0,FORTINET INC,13967482,Fortinet,Fortinet,True,1,2008-02-25 22:20:28,14804,125333,"The Fortinet #SecurityFabric platform secures the largest enterprise, service provider, and government organizations around the world."
+184500.0,CBOE GLOBAL MARKETS INC,16827489,Cboe,CBOE,True,1,2008-10-17 17:20:29,28921,624191,"We’re #DefiningMarkets to benefit all participants through product innovation, leading edge technology and seamless trading solutions."
+186989.0,MARATHON PETROLEUM CORP,320962473,Marathon Petroleum,MarathonPetroCo,True,1,2011-06-20 20:14:06,1761,8066,Marathon Petroleum Corporation (MPC) 2020 'ENERGY STAR Partner of the Year' -EPA
+199356.0,TRIPADVISOR INC,16365636,Tripadvisor,TripAdvisor,True,1,2008-09-19 16:40:46,28041,3434290,Find the good out there. #TheresGoodOutThere
+1045.0,AMERICAN AIRLINES GROUP INC,22536055,americanair,americanair,True,1,2009-03-02 21:23:05,2287478,1603670,"Official Twitter for the world’s largest airline. We’re here for you 24/7. For more about us or a formal response, visit https://t.co/6GJxuwPp4T."
+1161.0,ADVANCED MICRO DEVICES,14861876,AMD,amd,True,1,2008-05-21 22:14:12,8969,975332,Official corporate news about the AMD technology enabling today and inspiring tomorrow.
+1230.0,ALASKA AIR GROUP INC,13192972,Alaska Airlines,alaskaair,True,1,2008-02-07 05:17:36,337617,380427,We’ve now reached tweeting altitude. ✈️ Our Social Care team is here 24/7. For a formal response: https://t.co/gu9m8EggyQ #iFlyAlaska
+1380.0,HESS CORP,44996346,Hess Corporation,HessCorporation,False,1,2009-06-05 21:07:30,1337,8335,Hess Corporation is a leading global independent energy company engaged in the exploration and production of crude oil and natural gas.
+1408.0,BEAM INC,585833658,BeamNG,beamng,True,1,2012-05-20 15:29:17,1752,12893,Bringing soft-body physics to the forefront
+1447.0,AMERICAN EXPRESS CO,42712551,American Express,americanexpress,True,1,2009-05-26 20:32:45,68601,857586,"Follow Amex's Erica (^E) & Alicia (^A) for insider news, access & more."
+1449.0,AFLAC INC,23797083,Aflac,Aflac,True,1,2009-03-11 17:41:01,7982,61423,"Ready to talk coverage? Send us a Tweet.
+Need assistance? @AflacHelpDesk
+https://t.co/0Frz1xBTI2"
+1487.0,AMERICAN INTERNATIONAL GROUP,126118683,AIG,AIGinsurance,True,1,2010-03-24 22:10:39,6574,42399,"Global insurance company committed to preparing our clients for what's next. For service, tweet us! 👋  Our Community Guidelines: https://t.co/7bcUQ3GZsV"
+1602.0,AMGEN INC,28436760,Amgen,amgen,True,1,2009-04-02 22:32:57,9929,96622,Patients. They're why we develop and manufacture innovative human therapeutics to treat serious diseases. Community Guidelines: https://t.co/0txZKKMAVg
+1663.0,ANHEUSER-BUSCH COS INC,1435710336,Anheuser-Busch,AnheuserBusch,True,1,2013-05-17 13:54:41,4402,55872,"America’s best-loved brewery, making stronger communities & meaningful moments. 🍺 Enjoy responsibly. Content & sharing for 21+. ©2021 https://t.co/Lf2DcpQ9ft"
+1920.0,AVON PRODUCTS,21677409,Avon USA,AvonInsider,True,1,2009-02-23 18:31:20,20140,124120,"Make Life Beautiful.
+#NoAnimalTesting 🐇"
+2136.0,VERIZON COMMUNICATIONS INC,59889953,Verizon,verizon,True,1,2009-07-24 21:13:55,138387,1677261,5G from the network more people rely on. #5GBuiltRight
+2184.0,BEST BUY CO INC,17475575,Best Buy,bestbuy,True,1,2008-11-19 00:23:16,57990,1155791,Let’s talk about what’s possible. Share your best tech with the world using @BestBuy.   Contact @BestBuySupport with customer service questions.
+2255.0,BLACK & DECKER CORP,74616001,BLACK+DECKER,blackanddecker,True,1,2009-09-16 01:19:35,6244,45678,Tackling that to-do list? You Got This. BLACK+DECKER helps you keep up with life.
+2269.0,BLOCK H & R INC,10673252,H&R Block,hrblock,True,1,2007-11-27 23:50:12,32472,38611,"Tax prep doesn’t have to be hard. At H&R Block, we have many filing options to make it easy for you. Professional tax prep with or without the office visit."
+2285.0,BOEING CO,25103967,The Boeing Company,boeing,True,1,2009-03-18 16:44:27,5373,606639,"Boeing has a tradition of aerospace leadership and innovation, and is committed to investing in the communities where our people work and live worldwide."
+2290.0,OFFICEMAX INC,21104725,OfficeMax Inc.,OfficeMax,True,1,2009-02-17 16:48:34,6027,29558,"For all customer inquiries, please go to @officedepot."
+2312.0,ROBERT HALF INTL INC,16637298,Robert Half,roberthalf,True,1,2008-10-07 21:22:43,11868,23959,Robert Half is the world’s first and largest specialized staffing firm.
+2403.0,BRISTOL-MYERS SQUIBB CO,34010976,Bristol Myers Squibb,bmsnews,True,1,2009-04-21 19:31:42,7462,149673,Global Specialty Care BioPharma
+2435.0,BROWN FORMAN CORP,999295860486918144,Brown-Forman,BrownForman,True,1,2018-05-23 14:27:53,1736,1150,Please Drink Responsibly. Legal drinking age only. Don't share with anyone underage. https://t.co/bgrPwujH2G ©2021 Brown-Forman. All rights reserved.
+2547.0,CIGNA CORP,37687077,Cigna,cigna,True,1,2009-05-04 15:48:14,25779,50255,"Community that highlights what Cigna is doing around the globe to help improve the health, well-being, and peace of mind of those we serve."
+2663.0,CAMPBELL SOUP CO,37008048,Campbell Soup Co,CampbellSoupCo,True,1,2009-05-01 18:35:16,6851,92248,We're proud of what we bring to the table: Real food that matters for life's moments. Visit @CampbellCares for help.
+2710.0,CONSTELLATION BRANDS,898196334540402688,Constellation Brands,cbrands,True,1,2017-08-17 14:54:28,857,37585,Constellation is a leading international producer and marketer of high-end beer and premium wine and spirits brands that are #WorthReachingFor.
+2884.0,CENTURYLINK INC,44182242,CenturyLink,centurylink,True,1,2009-06-02 19:07:02,10242,39067,Transforming lives and businesses through innovative technology solutions. Follow along. Customer support available @CenturyLinkHelp.
+2968.0,JPMORGAN CHASE & CO,1155522630,J.P. Morgan,jpmorgan,True,1,2013-02-07 00:35:00,7393,559300,"Official account for the latest company news and updates from Asset Management, Private Banking, Commercial Banking, and the Corporate and Investment Bank."
+3024.0,CHUBB CORP,39550624,Chubb,chubb,True,1,2009-05-12 17:40:14,5001,27551,Chubb is the world’s largest publicly traded property and casualty insurer.
+3105.0,IHEARTMEDIA INC,95735455,iHeartMedia,iheartmedia,True,1,2009-12-09 21:26:02,1762,22899,"iHeartMedia, Inc. is one of the leading global media and entertainment companies. For more company information visit http://t.co/34j8b9xuRq."
+3144.0,COCA-COLA CO,26787673,Coca-Cola,CocaCola,True,1,2009-03-26 16:36:42,282767,3316681,Everyone welcome.♥️
+3170.0,COLGATE-PALMOLIVE CO,128668358,Colgate-Palmolive,CP_News,True,1,2010-04-01 20:52:17,3614,34961,Welcome to the official home for Colgate-Palmolive news. #WeAreColgate
+3221.0,AON PLC,22152077,Aon,Aon_plc,True,1,2009-02-27 15:43:53,4531,38899,"Aon plc (NYSE:AON) is a leading global professional services firm providing a broad range of #risk, #retirement and #health solutions."
+3226.0,COMCAST CORP,89587925,Comcast,comcast,True,1,2009-11-13 00:56:26,68449,177184,Shaping the future at the intersection of media & technology.
+3362.0,CONAGRA BRANDS INC,92357890,Conagra Brands,conagrabrands,True,1,2009-11-24 20:30:48,9663,22773,"Conagra Brands is one of North America’s leading branded food companies. To view our portfolio of brands, visit https://t.co/UsA2WOi5zZ."
+3505.0,MOLSON COORS BEVERAGE CO,441998843,Molson Coors Beverage Company,molsoncoors,True,1,2011-12-20 16:58:10,9884,33570,"Brewing beverages that unite people for more than two centuries.
+
+Only for 21+. Drink Responsibly. PRIV: https://t.co/KfLPjXDQXM T&C: https://t.co/nlJx8PedPo. 800-645-5376."
+3532.0,CORNING INC,65457124,Corning Incorporated,corning,True,1,2009-08-13 20:19:59,7848,30297,"Official Twitter of Corning Incorporated; materials science innovator & leader in specialty glass, ceramics & optical physics. Terms: https://t.co/UgtAnA12pG"
+3835.0,DEERE & CO,18726666,John Deere,johndeere,True,1,2009-01-07 16:19:31,11195,193700,Nothing runs like a Deere
+3851.0,DELTA AIR LINES INC,5920532,Delta,delta,True,1,2007-05-10 04:31:14,1128852,1588907,"Caring for you is our top priority. For the most up to date information on how we’re responding to COVID-19, visit: https://t.co/l5WcWVfLXl"
+3905.0,ADTALEM GLOBAL EDUCATION INC,305048981,Adtalem Global,adtalemglobal,True,1,2011-05-25 15:13:12,3925,2591,"We empower students and professionals to achieve their goals, find success and make inspiring contributions to our global community."
+3964.0,DILLARDS INC  -CL A,63276081,Dillard's,Dillards,True,1,2009-08-05 22:16:36,4951,29199,Official Dillard's Twitter
+4029.0,DOMINION ENERGY INC,82653001,Dominion Energy,dominionenergy,True,1,2009-10-15 16:21:15,36311,62274,"Sharing the latest news, info & updates about Dominion Energy. Customers can report outages at https://t.co/PplRNyVKiK. If you suspect an emergency, call 911."
+4094.0,DUN & BRADSTREET CORP,198911524,Dun & Bradstreet,DunBradstreet,True,1,2010-10-05 15:22:53,28562,19900,Official Dun & Bradstreet Twitter. Our #DNBDataCloud delivers #data & insights to help our clients grow and thrive.
+4145.0,PERKINELMER INC,128564900,PerkinElmer,perkinelmer,True,1,2010-04-01 14:03:34,6034,47289,"Stay informed with news, insights, trends and ways we are making an impact across the diagnostics, life sciences, food and applied markets."
+4194.0,EASTMAN KODAK CO,132588642,Kodak,kodak,True,1,2010-04-13 17:04:41,7147,56782,Enabling creativity since 1880. ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀
+4213.0,ECOLAB INC,250684710,Ecolab,Ecolab,True,1,2011-02-11 15:58:53,4334,18784,"Ecolab is the global leader in water, hygiene and infection prevention solutions - helping businesses succeed while protecting people and vital resources."
+4321.0,EMERSON ELECTRIC CO,62622531,Emerson,Emerson_news,True,1,2009-08-03 21:09:22,3148,18972,"Where technology and engineering come together to create global solutions, driven without compromise for a world in action.
+https://t.co/A6haet3XRx"
+4367.0,WEATHERFORD INTL PLC,235288742,Weatherford,WeatherfordCorp,True,1,2011-01-07 20:34:34,2952,35689,"Weatherford is one of the largest multinational oilfield service companies, delivering innovative technologies and services worldwide."
+4503.0,EXXON MOBIL CORP,36665547,ExxonMobil,exxonmobil,True,1,2009-04-30 13:49:24,7080,325613,The official Twitter page of Exxon Mobil Corporation. Continue the conversation at https://t.co/Kjb8fyf88V. Direct all inquiries to http://t.co/INDDcFZK8u.
+4517.0,NEXTERA ENERGY INC,94190179,"NextEra Energy, Inc.",nexteraenergy,True,1,2009-12-02 22:21:59,190,4219,"Leading clean energy company ranked No. 1 in the electric and gas utilities industry on Fortune’s 2019 list of “World’s Most Admired Companies."""
+4598.0,FEDEX CORP,134887156,FedEx,FedEx,True,1,2010-04-19 18:50:24,21868,310348,Where now meets next. Looking for help? Tweet @FedExHelp.
+4699.0,M & T BANK CORP,82382893,M&T Bank,mandt_bank,True,1,2009-10-14 15:17:15,3914,11242,"The official channel for news, community updates and helpful information from M&T Bank. For customer support Mon-Fri 8am-4:30pm EST, tweet @MandT_Help."
+4839.0,FORD MOTOR CO,15676492,Ford Motor Company,ford,True,1,2008-07-31 16:07:55,48652,1281012,We build the most beloved truck on the road. The most iconic American sports car. And the SUV most people think of when they think of an SUV.
+4988.0,TEGNA INC,34123003,TEGNA,tegna,True,1,2009-04-22 01:11:48,5265,8125,"Our purpose is to serve the greater good of our communities – through empowering stories, impactful investigations and innovative marketing services."
+4990.0,GAP INC,18462157,Gap,gap,True,1,2008-12-29 22:39:35,37721,629555,Optimistic American style.
+5046.0,GENERAL DYNAMICS CORP,1067830618078228480,General Dynamics Corporation,generaldynamics,True,1,2018-11-28 17:20:33,1259,2881,"Official account for the General Dynamics Corporation.
+
+NYSE: GD"
+5047.0,GENERAL ELECTRIC CO,267399199,General Electric,generalelectric,True,1,2011-03-16 21:58:59,84278,451276,"Every minute of every day, GE rises to the challenge of building a world that works."
+5071.0,GENERAL MILLS INC,280557152,General Mills,generalmills,True,1,2011-04-11 15:26:07,20961,99912,"News/information from General Mills. Learn more at https://t.co/K7ale2Yhbq, https://t.co/brNL7A0kV1 and https://t.co/Q8ZoS4kQLA"
+5073.0,GENERAL MOTORS CO,10850192,General Motors,gm,True,1,2007-12-04 20:43:28,17969,761849,"We’re on a journey to create a world with zero crashes, zero emissions and zero congestion. See how we’ll get there. Privacy Statement: https://t.co/u3I3TbTZSR"
+5518.0,HASBRO INC,78482616,Hasbro,hasbro,True,1,2009-09-30 01:57:17,12646,164127,Creating the world's best play and entertainment experiences.
+5568.0,KRAFT HEINZ CO,114816952,The Kraft Heinz Company,KraftHeinzCo,True,1,2010-02-16 18:10:32,2340,19585,News & information from #HereAtKraftHeinz
+5597.0,HERSHEY CO,300878069,HERSHEY'S,hersheys,True,1,2011-05-18 14:19:04,20821,257078,We’re here to bring people together through the power of chocolate. #heartwarmingtheworld
+5606.0,HP INC,17193794,HP,HP,True,1,2008-11-05 18:01:46,38411,1097775,"Engineering experiences that amaze. We create technology with a purpose: to make life better for everyone, everywhere. #KeepReinventing."
+5643.0,HILTON WORLDWIDE HOLDINGS,36504210,Hilton,Hilton,True,1,2009-04-29 22:30:09,79829,13868,"Wherever you #travel, we’ll meet you there with a global portfolio of hotels you can count on. #HiltonMemories"
+5680.0,HOME DEPOT INC,14791918,The Home Depot,HomeDepot,True,1,2008-05-15 23:17:44,23420,403109,Helping doers in their home improvement projects. Visit @HDCares for Customer Care support.
+6008.0,INTEL CORP,2803191,Intel,intel,True,1,2007-03-29 07:22:48,15936,4874224,"Intel news, views & events about global tech innovation. Looking for support? Tweet @IntelSupport"
+6136.0,INTERPUBLIC GROUP OF COS,378077984,Interpublic Group,InterpublicIPG,True,1,2011-09-22 16:11:05,8062,13316,"Values-based, Data-fueled, Creatively-driven since 1961."
+6266.0,JOHNSON & JOHNSON,20457806,Johnson & Johnson,JNJNews,True,1,2009-02-09 19:12:13,14490,218463,"At Johnson & Johnson, we blend heart, science and ingenuity to profoundly change the trajectory of health for humanity. Follow us to learn more and connect."
+6268.0,JOHNSON CONTROLS INTL PLC,1280469980,Johnson Controls,johnsoncontrols,True,1,2013-03-19 13:43:00,3680,27925,"105,000 experts globally, dedicated to protecting the environment in a 150 countries & 130 years of innovation, we are the power behind our customers’ mission."
+6304.0,KLA CORP,297676668,KLA,KLAcorp,False,1,2011-05-12 22:36:17,2626,3144,Latest info from the industry-leading supplier of advanced process control and process-enabling solutions for manufacturing wafers and reticles.
+6375.0,KELLOGG CO,454213077,Kellogg Company,KelloggCompany,True,1,2012-01-03 19:03:03,3309,76414,Corporate news from our global HQ in the U.S. Product question? Visit: http://t.co/sKcVDx76xL
+6502.0,KROGER CO,36359791,Kroger,kroger,True,1,2009-04-29 13:44:43,104298,161137,Fresh food. Fresh takes. Fresh For Everyone. 🥬🍔🍎🥑🥐🧁🥒🛒
+6730.0,LILLY (ELI) & CO,172496840,Eli Lilly and Company,LillyPad,True,1,2010-07-29 21:24:18,21451,127784,Lilly unites caring with discovery to create medicines that make life better for people around the world. https://t.co/9QEZusdKd9
+6742.0,LINCOLN NATIONAL CORP,369527014,Lincoln National Forest,LincolnUSForest,True,1,2011-09-07 14:23:04,713,1159,"Lincoln National Forest
+3463 Las Palomas Rd
+Alamogordo, NM 88310
+575-434-7200"
+6774.0,LOCKHEED MARTIN CORP,42871498,Lockheed Martin,LockheedMartin,True,1,2009-05-27 12:34:04,16735,446101,"Customer focus, innovation and purpose are built into everything we do. Lockheed Martin. Your Mission Is Ours®."
+6829.0,LOWE'S COS INC,19336500,Lowe's,Lowes,True,1,2009-01-22 12:39:00,165865,281904,"As our daily routines change, so do our homes. We’re with you every step of the way as your #HomeBecomes more than it ever has before."
+7163.0,S&P GLOBAL INC,110522065,S&P Global,SPGlobal,True,1,2010-02-01 21:10:41,16294,25924,We accelerate progress in the world by delivering essential intelligence that's critical for decision-making.
+7171.0,MCKESSON CORP,148872151,McKesson Corporation,McKesson,True,1,2010-05-27 20:50:35,6294,21813,"We're a global healthcare company improving care in every setting — one product, one partner, one patient at a time."
+7241.0,CVS HEALTH CORP,122473388,CVS Health,cvshealth,True,1,2010-03-12 20:58:11,12071,62016,We are health care innovators with a simple and clear purpose: Helping people on their path to better health. Celebrating our CVS heroes: https://t.co/feddaBmZK5
+7257.0,MERCK & CO,35961145,Merck,Merck,True,1,2009-04-28 02:40:05,8656,203601,We have always been and always will be inventing for the single greatest purpose: Life. Intended for U.S. residents only. FLS: https://t.co/unmH53cudx
+7366.0,ENTERGY CORP,34407641,Entergy,entergy,True,1,2009-04-22 21:37:29,10040,17242,"This page is monitored during business hours. For customer service, please call 1-800-368-3749. To report power outages & emergencies, 1-800-968-8243."
+7435.0,3M CO,378197959,3M,3M,True,1,2011-09-22 20:12:19,11668,1404472,"Here, we innovate with purpose & use #science every day to create real impact in every life around the world. #LifeWith3M"
+7585.0,MOTOROLA SOLUTIONS INC,195702287,Motorola Solutions,motosolutions,True,1,2010-09-27 11:21:04,15290,26222,"#MotorolaSolutions, a global leader in mission-critical communications and analytics, makes cities safer and help communities and businesses thrive."
+7647.0,BANK OF AMERICA CORP,204881628,Bank of America,bankofamerica,True,1,2010-10-19 17:29:28,10155,558486,"The power to connect with people and exchange ideas. For account issues, please use @BofA_Help"
+7648.0,NCR CORP,26061631,NCR Corporation,NCRCorporation,True,1,2009-03-23 18:44:42,16031,21187,"Shaping how people bank, shop, eat & travel since 1884. 🧾🛒📱🍽 iNCRedibles, show us your #NCRLife. 💚"
+7866.0,NEW YORK TIMES CO  -CL A,807095,The New York Times,NYTimes,True,1,2007-03-02 20:41:42,421871,49260683,News tips? Share them here: https://t.co/ghL9OoYKMM
+7922.0,NORDSTROM INC,15162193,Nordstrom,nordstrom,True,1,2008-06-18 20:29:56,284797,717036,Serving customers since 1901. Tweeting since 2008. Customer service: 1-888-282-6060 #nordstrom
+7970.0,EVERSOURCE ENERGY,34711477,Eversource CT,EversourceCT,True,1,2009-04-23 19:58:16,15698,62237,Eversource is New England's largest energy delivery company.
+7982.0,NORTHERN TRUST CORP,308506248,Northern Trust,NorthernTrust,True,1,2011-05-31 14:41:10,3858,17162,"Global leader in wealth management, asset servicing and asset management delivering expert advice, educational thought leadership and news."
+7985.0,NORTHROP GRUMMAN CORP,15840909,Northrop Grumman,northropgrumman,True,1,2008-08-13 19:13:06,12996,227360,"Northrop Grumman solves the toughest problems in space, aeronautics, defense and cyberspace to meet the ever-evolving needs of our customers worldwide."
+8007.0,WELLS FARGO & CO,1178011,Wells Fargo,WellsFargo,True,1,2007-03-14 19:59:16,22031,322780,"Follow along for all the latest company news and updates. For customer service queries, please follow @Ask_WellsFargo."
+8245.0,PNC FINANCIAL SVCS GROUP INC,40059448,PNC Bank,PNCBank,True,1,2009-05-14 18:54:33,9472,33890,"Official handle of PNC Bank, providing insights and info to help make the steps for achieving your financial goals easier. For customer service: @PNCBank_Help."
+8402.0,PAYCHEX INC,39750799,Paychex,Paychex,True,1,2009-05-13 13:35:10,16564,11686,Supporting business owners and HR professionals to help make the complex simple. For 24/7 service: @PaychexService
+8446.0,PENNEY (J C) CO,17448575,JCPenney,JCPenney,True,1,2008-11-17 19:52:00,62367,438550,"Your stylish & fun friend who doesn’t talk too much! 😎
+Customer service: DM or call 1.800.322.1189 📱
+Responses may be delayed due to pandemic 😷"
+8455.0,PPL CORP,100522040,PPL Electric,PPLElectric,True,1,2009-12-30 15:21:43,12415,13005,News & tips from utility serving central/eastern PA. We’re on Twitter 8 am-7 pm Mon-Fri. Call 1-800-342-5775 or visit us online to report outages & emergencies.
+8530.0,PFIZER INC,56488059,Pfizer Inc.,pfizer,True,1,2009-07-13 20:48:42,9894,379074,Breakthroughs that change patients' lives. Visit https://t.co/YjZgM19rTC to learn more. https://t.co/K5kUC0gbrs
+8539.0,EXELON CORP,62643747,Exelon Corporation,Exelon,True,1,2009-08-03 22:44:55,5851,20035,"We believe that reliable, clean and affordable energy is essential to a brighter, more sustainable future. That's performance that drives progress."
+8694.0,PEPCO HOLDINGS INC,20438137,Pepco,PepcoConnect,True,1,2009-02-09 14:28:46,20010,20824,"For 24/7 restoration updates or to report an outage, https://t.co/255HqIIZjk, call 1-877-737-2662, or use our mobile app. Account not monitored 24 hours a day."
+8762.0,PROCTER & GAMBLE CO,27025414,Procter & Gamble,ProcterGamble,True,1,2009-03-27 15:23:40,12946,216653,"All day, every day, P&G people are stepping forward and serving others as a #ForceForGood. Improving everyday life since 1837. #LeadWithLove"
+9699.0,SIGMA-ALDRICH CORP,14055820,Sigma-Aldrich,SigmaAldrich,True,1,2008-02-28 18:00:33,3392,19086,"🔬🧪🧬A leading provider of lab & production materials, with the expertise to support you as you make your next scientific breakthrough|For US/CA visitors only"
+9777.0,SMUCKER (JM) CO,314824715,Smucker's,smuckers,True,1,2011-06-10 21:35:09,5795,24581,Smucker’s® is committed to offering quality products that bring families together to share memorable meals & moments. Check out @FatherNature for great content!
+9882.0,SOUTHWEST AIRLINES,7212562,Southwest Airlines,SouthwestAir,True,1,2007-07-02 19:56:44,984316,2130440,"We run on #SouthwestHeart! Follow to see more from the best Employees and Customers in the world. For a formal response, please use the link provided."
+9899.0,AT&T INC,14620190,AT&T,ATT,True,1,2008-05-01 21:52:01,164089,905495,Our mission is keeping you connected to the things you love. Our passion is making a difference. We stay connected together.
+10016.0,STANLEY BLACK & DECKER INC,117789943,Stanley Black & Decker,StanleyBlkDeckr,True,1,2010-02-26 16:34:00,1912,8043,Stanley Black & Decker provides the tools and innovative solutions you can trust to get the job done — and we have since 1843. #ForThoseWhoMakeTheWorld
+10035.0,STATE STREET CORP,331877987,State Street,StateStreet,True,1,2011-07-08 21:24:35,9103,51380,A leading financial services provider serving some of the world’s most sophisticated institutions. https://t.co/XPi7dZ2KAX
+10096.0,PUBLIC STORAGE,25362591,Public Storage,PublicStorage,True,1,2009-03-19 19:07:28,19072,3887,"Public Storage has thousands of self-storage locations nationwide, for when you move or just need a little more space. Call 866-687-5396 to reserve or get help."
+10121.0,NAVIENT CORP,2493169274,Navient,Navient,True,1,2014-05-13 15:48:21,11204,4120,#TeamNavient helps customers navigate the path to financial success! Email socialmedia@navient.com for customer service. Social media hours: M-F 8 a.m.-5p.m. ET
+10499.0,TEXAS INSTRUMENTS INC,13613292,Texas Instruments,TXInstruments,True,1,2008-02-18 07:30:29,23086,88517,"We are a global semiconductor company that designs, manufactures, tests and sells analog and embedded processing chips. Tweets by TIers."
+10519.0,TEXTRON INC,1491310134,Textron Inc.,Textron,True,1,2013-06-07 21:25:16,5044,10306,"Textron is known for its powerful brands such as Bell, Cessna, Beechcraft, Hawker, Jacobsen, Kautex, Lycoming, E-Z-GO & Textron Systems."
+10631.0,TOTAL SYSTEM SERVICES INC,400224190,TSYS,TSYS_TSS,False,1,2011-10-28 17:55:57,5920,5640,"TSYS is now a Global Payments company. Together, we’re delivering unrivaled payments expertise to our customers. Follow us at our new home @GlobalPayInc."
+10726.0,TRIBUNE MEDIA CO,44175468,Tribune Media,tribunemedia,True,1,2009-06-02 18:33:56,4,2301,Official source for Tribune Media Company tweets.
+10793.0,TYSON FOODS INC  -CL A,15836048,Tyson Foods,TysonFoods,True,1,2008-08-13 12:42:52,12046,58219,"Tyson Foods, Inc. founded in 1935."
+10795.0,UNITED AIRLINES HOLDINGS INC,260907612,United Airlines,united,True,1,2011-03-04 21:23:11,1238656,1082485,"We're here 24/7 to tell you what you need to know to get you where you want to go. For the latest on health & safety, visit https://t.co/r0KuzPNFBD or text FLYUA."
+10867.0,UNION PACIFIC CORP,17629628,Union Pacific,UnionPacific,True,1,2008-11-25 20:06:08,3320,50166,"Union Pacific operates North America's premier railroad franchise, covering 23 states in the western two-thirds of the United States."
+10983.0,RAYTHEON TECHNOLOGIES CORP,16017996,Raytheon Technologies,RaytheonTech,True,1,2008-08-27 21:32:47,20725,185641,"195,000 employees, four businesses, 190 years of innovation, one mission: The future of aerospace and defense."
+10984.0,SPRINT CORP,14626738,Sprint,sprint,True,1,2008-05-02 15:10:01,43519,421847,Joining the @TMobile 5G revolution. Great network. Great value. No compromises. Building America’s most reliable 5G network.
+11060.0,VF CORP,15279429,VANITY FAIR,VanityFair,True,1,2008-06-30 14:17:35,131770,4858365,Vanitas vanitatum.
+11228.0,VULCAN MATERIALS CO,121872852,Vulcan Inc.,VulcanInc,True,1,2010-03-10 21:53:52,19605,22336,The engine behind philanthropist & Microsoft cofounder Paul G. Allen's network. Empowered by Paul's vision to make a positive difference in the world.
+11259.0,WALMART INC,17137891,Walmart,Walmart,True,1,2008-11-03 19:38:44,583427,1228274,Where real people go for real good stuff. Save Money. Live Better. Customer support questions? @WalmartHelp
+11399.0,WESTERN DIGITAL CORP,827296225955180544,Western Digital,westerndigital,True,1,2017-02-02 23:22:45,4378,47965,"We create data storage solutions that power the technology of today and inspire the innovations of tomorrow. #WesternDigital
+
+Need help? DM @WesternDigiCare."
+11506.0,WILLIAMS COS INC,19366287,Williams,WilliamsUpdates,False,1,2009-01-22 22:34:15,2779,7169,"Williams handles 30% of the natural gas in the United States that is used every day to heat our homes, cook our food and generate our electricity."
+11584.0,FOOT LOCKER INC,22030851,Foot Locker,footlocker,True,1,2009-02-26 16:51:45,133793,1545177,"The official Twitter of Foot Locker, House of Hoops by Foot Locker and https://t.co/JAWCfWzjdj."
+11636.0,XEROX HOLDINGS CORP,15991258,Xerox,Xerox,True,1,2008-08-26 02:33:30,24110,178288,"Introducing the new Xerox ElemX™ Liquid Metal 3D Printer: https://t.co/dTRuyopuIt
+Try augmented reality support with CareAR Assist: https://t.co/ylx4ejnOb5"
+12124.0,MORGAN STANLEY,426159377,Morgan Stanley,MorganStanley,True,1,2011-12-01 22:24:52,9929,590492,"Official Twitter account of Morgan Stanley. We provide a range of investment banking, securities, investment management & wealth management services worldwide."
+12138.0,PRICE (T. ROWE) GROUP,18639872,T. Rowe Price,TRowePrice,True,1,2009-01-05 18:30:16,9769,29246,Investment insights to keep you informed and help your clients make better investment decisions. Intended for US audiences. Guidelines:https://t.co/sOgO5t64eM
+12141.0,MICROSOFT CORP,74286565,Microsoft,Microsoft,True,1,2009-09-14 22:35:42,20345,9260869,We’re on a mission to empower every person and every organization on the planet to achieve more. Support: @MicrosoftHelps
+12142.0,ORACLE CORP,809273,Oracle,Oracle,True,1,2007-03-03 23:54:26,21829,777665,"Leading the cloud. From intelligent business applications to infrastructure, we deliver tomorrow’s emerging technologies today, like the autonomous database."
+12206.0,DIRECTV,14946736,DIRECTV,DIRECTV,True,1,2008-05-29 18:46:14,85129,253786,ATT/DIRECTV is ranked #1 in Nationally in Customer Satisfaction for TV Service by @jdpower. Tied in 2020. Visit https://t.co/xF1RXnjVzM for more information
+12441.0,GARTNER INC,15231287,Gartner,Gartner_inc,True,1,2008-06-25 14:03:20,27916,406952,"We’re here to help: View our insights, advice and tools to achieve your mission-critical priorities below."
+12540.0,ADOBE INC,63786611,Adobe,Adobe,True,1,2009-08-07 17:55:30,41465,686586,Creativity doesn’t just open doors. It opens worlds. Join us in celebrating #CreativityForAll. Need help? Reach out to @AdobeCare.
+12689.0,KB HOME,17394023,KB Home,kbhome,True,1,2008-11-14 19:50:06,9164,17578,KB Home. Built on Relationships. #KBHome
+12788.0,HARMAN INTERNATIONAL INDS,22551860,HARMAN,harman,True,1,2009-03-02 23:23:23,5103,21441,We engineer solutions to enhance life’s experiences and simplify the way people interact with technology that connects them to the world. #HARMANConnectsMe
+12850.0,CERNER CORP,34710922,Cerner,cerner,True,1,2009-04-23 19:56:09,21886,43513,We work at the intersection of health care and information technology to relentlessly seek breakthrough innovation that will shape health care of tomorrow.
+12978.0,KRAFT FOODS GROUP INC,114816952,The Kraft Heinz Company,KraftHeinzCo,True,1,2010-02-16 18:10:32,2340,19585,News & information from #HereAtKraftHeinz
+13646.0,TIFFANY & CO,90774609,Tiffany & Co.,TiffanyAndCo,True,1,2009-11-18 01:52:10,15969,1633867,"TIFFANY & CO.—founded in New York City in 1837—is synonymous with superlative diamonds, innovative jewelry design and expert craftsmanship."
+13714.0,VIACOMCBS INC,19034788,ViacomCBS,ViacomCBS,True,1,2009-01-15 19:26:59,7300,185337,We are a global media and entertainment company creating premium content and experiences for audiences in 180+ countries.
+14418.0,MGM RESORTS INTERNATIONAL,2216675940,MGM Resorts,MGMResortsIntl,True,1,2013-11-26 22:46:27,11145,66998,Vegas done safely is still Vegas. It’s time to head #BacktoVegas!
+14438.0,ADT CORP,86143723,ADT,ADT,True,1,2009-10-29 19:33:21,32104,49716,Here to help protect what matters most. #SafeAtHome
+14477.0,WASTE MANAGEMENT INC,17634248,Waste Management,wastemanagement,True,1,2008-11-25 22:39:32,31407,44062,Waste Management is the leading provider of comprehensive environmental solutions in North America. Twitter Hours: 8-5 CST (Mon-Fri)
+14489.0,DELL TECHNOLOGIES INC,715901816857358336,Dell Technologies,delltech,True,1,2016-04-01 14:01:08,5077,37875,"We help you build your digital future and transform how you work, live and play."
+14624.0,OFFICE DEPOT INC,18572345,Office Depot,OfficeDepot,True,1,2009-01-03 03:50:55,39833,94796,Here to help you #KeepBusinessGoing. #DiscoverDepot products & services & learn how we are making a #DepotDifference in our communities.
+14650.0,BMC SOFTWARE INC,2928731,BMC Software,bmcsoftware,True,1,2007-03-30 03:00:18,25205,53731,"BMC helps customers run and reinvent their businesses with open, scalable, and modular solutions to complex IT problems."
+15855.0,NORTONLIFELOCK INC,1173980018009001984,NortonLifeLock,nortonlifelock,True,1,2019-09-17 15:20:38,479,1448,The official NortonLifeLock account for the latest news in #CyberSafety
+16721.0,ELECTRONIC ARTS INC,8074522,EA UK,electronicarts,True,1,2007-08-09 08:36:43,9809,335302,"Your home for EA news across the UK and Ireland on @EASPORTSFIFA, @Battlefield, @PlayApex, @EAStarWars & more. Need help with an EA title? Contact @EAhelp"
+20423.0,CAESARS ENTERTAINMENT CORP,164528815,Caesars Entertainment,caesarsent,True,1,2010-07-09 02:53:34,5096,15498,"Over 50 Destinations. One Empire.
+Must be 21+ to gamble. Know When to Stop Before You Start.® 
+Gambling problem? Call 800-522-4700."
+21825.0,CITIZENS FINANCIAL GROUP INC,210953833,Citizens,CitizensBank,True,1,2010-11-01 22:01:21,29745,24034,Here to help make you ready for whatever’s next on your journey. Follow us for tips that will prepare you. #MadeReady For customer service: @AskCitizensBank.
+23809.0,AUTOZONE INC,278221207,AutoZone,autozone,True,1,2011-04-06 21:14:47,16061,39598,"Follow us for AutoZone news, online #deals, #DIY #repair tips & more from the nation's leading autoparts retailer. #GetinTheZone @ http://t.co/JoGk3mZxe7"
+24800.0,QUALCOMM INC,84623395,Qualcomm,Qualcomm,True,1,2009-10-23 15:55:15,13043,437246,"As we unlock 5G, we’re transforming industries, creating jobs, and enriching lives."
+24893.0,WHOLE FOODS MARKET INC,15131310,Whole Foods Market,WholeFoods,True,1,2008-06-16 05:37:58,259237,4318970,"We’re the place to discover new flavors, new favorites and new ideas, whatever those might be. Tag your food obsession of the moment with #MakesMeWhole."
+25279.0,BOSTON SCIENTIFIC CORP,214210756,Boston Scientific,bostonsci,True,1,2010-11-10 21:10:37,2342,33983,"Official news from Boston Scientific, a leading innovator of less invasive medical solutions that transform lives around the world. (NYSE: $BSX)"
+25434.0,STARBUCKS CORP,30973,Starbucks Coffee,StarBucks,True,1,2006-11-29 19:19:02,239808,10936464,"To inspire and nurture the human spirit — one person, one cup and one neighborhood at a time."
+25783.0,MCAFEE INC,961445378,John McAfee,officialmcafee,True,1,2012-11-21 00:03:03,65684,1049689,"Iconoclast.
+Lover of women, adventure and mystery.
+Founder of McAfee Anti-virus"
+26156.0,HEWLETT PACKARD ENTERPRISE,207495308,HPE,HPE,True,1,2010-10-25 12:50:54,16749,71447,Official Twitter of Hewlett Packard Enterprise. Sharing our passion for technology & innovation.
+27786.0,CHESAPEAKE ENERGY CORP,71323944,Chesapeake Energy,Chesapeake,False,1,2009-09-03 18:33:11,8206,57755,Chesapeake Energy (NYSE:CHK)
+27914.0,HUMANA INC,24160942,Humana,humana,True,1,2009-03-13 12:09:13,15601,44243,Pursuing our dream of helping people achieve lifelong well-being. To learn more about Humana visit https://t.co/t4fYofD5t6.  Need help? Tweet @HumanaHelp.
+28034.0,CHUBB LTD,39550624,Chubb,chubb,True,1,2009-05-12 17:40:14,5001,27551,Chubb is the world’s largest publicly traded property and casualty insurer.
+28195.0,JABIL INC,485747600,Jabil,jabil,True,1,2012-02-07 14:49:42,11708,9188,"Jabil: a global #manufacturing partner combining expertise in #engineering, #design & #supplychain for the world's biggest brands. #IoT #retail #3DPrinting"
+28349.0,ALLSTATE CORP,14275290,Allstate,allstate,True,1,2008-04-01 14:59:28,33607,85502,The brand with the hands advocating for a life well protected in 280 characters or less.
+28648.0,PETSMART INC,16149262,PetSmart,PetSmart,True,1,2008-09-05 20:46:20,44139,214075,Use #fortheloveofpets for a chance to be featured on our social accounts 💗
+28930.0,MARRIOTT INTL INC,14140913,Marriott International,MarriottIntl,True,1,2008-03-13 17:21:27,32072,427528,Welcome to Marriott International's newsroom on Twitter. Tweeting all things travel and hospitality from Marriott International headquarters.
+29150.0,URBAN OUTFITTERS INC,15515919,Urban Outfitters,urbanoutfitters,True,1,2008-07-21 15:08:12,42701,956678,The official UO Twitter.
+29804.0,INVESCO LTD,240826569,Invesco US,invescous,True,1,2011-01-20 20:53:50,5026,164025,Invesco believes in delivering an investment experience designed to help people get more out of life. Important disclosures: https://t.co/Kx73FEDA9N.
+30990.0,CAPITAL ONE FINANCIAL CORP,364477412,Capital One,CapitalOne,True,1,2011-08-29 20:50:38,27721,189388,"At Capital One, we’re on a mission to change banking for good by offering great products, services, and rewards to our customers."
+31774.0,BRIGHTHOUSE FINANL INC,725803369932181504,BrighthouseFinancial,BrighthouseFin,True,1,2016-04-28 21:46:23,3470,11651,"Build for what's ahead.
+
+We're on a mission to help people achieve financial security."
+34636.0,FOX CORP,1367531,Fox News,foxnews,True,1,2007-03-17 19:01:26,423187,20049574,"Follow America's #1 cable news network, delivering you breaking news, insightful analysis, and must-see videos. https://t.co/3gb0b8MMza"
+35168.0,CORTEVA INC,959212727247032325,Corteva Agriscience™,corteva,True,1,2018-02-01 23:51:50,1746,20101,"Corteva Agriscience™, enriching the lives of farmers and consumers, ensuring progress for generations to come."
+61513.0,SANDISK CORP,15359864,SanDisk,sandisk,True,1,2008-07-09 00:00:01,10676,123261,"| For Support, please visit https://t.co/0XSHgy5pCp"
+61591.0,NETAPP INC,15897465,NetApp,NetApp,True,1,2008-08-18 22:46:36,22866,129498,"In a world of generalists, we are the specialists. #NetApp​ 
+
+Catch the keynotes, get the learnings, & more! #NetAppINSIGHT 2020 on-demand now: https://t.co/7vJov4tWp9"
+61676.0,CITRIX SYSTEMS INC,12492842,Citrix,citrix,True,1,2008-01-21 13:31:17,24063,219294,The future of work is the space to succeed. We provide technology that empowers organizations to #UnlockPotential & deliver a better employee experience.
+62689.0,TRAVELERS COS INC,17640219,Travelers,travelers,True,1,2008-11-26 02:53:10,10196,65747,"Taking care of our customers, communities and each other. https://t.co/zmbqMtnDHy"
+63669.0,UNIVISION COMMUNICATIONS INC,40924038,Univision,univision,True,1,2009-05-18 17:46:09,168222,2745801,"El lugar número 1 para tus noticias, entretenimiento, deportes y novelas. Hispanic Heartbeat of America. Síguenos en Facebook e Instagram @Univision"
+64156.0,MONSTER WORLDWIDE INC,772368,Monster,Monster,True,1,2007-02-14 18:04:51,614642,217171,"Find the right fit. 
+
+https://t.co/bk1wBj1rXY"
+64410.0,CARMAX INC,7023592,CarMax,carmax,True,1,2007-06-22 20:37:13,38230,37020,"The way it should be. 
+Need help? We're available from 9A-8P ET Mon-Fri at 1-800-519-1511."
+64630.0,TAKE-TWO INTERACTIVE SFTWR,18506744,Take Two,taketwo,True,1,2008-12-31 14:15:00,16584,9964,"Catch up on the latest SoCal news with @AMartinezLA. Join us on 89.3 @KPCC, weekdays 2-3 PM. (Frequently confused with Take2 interactive)"
+64768.0,AMAZON.COM INC,20793816,Amazon,amazon,True,1,2009-02-13 18:39:54,35497,3567304,"Official Twitter account of Amazon. 
+Contact @AmazonHelp for customer support.
+Follow @AmazonNews for the latest news from Amazon."
+64891.0,RALPH LAUREN CORP,34395888,Ralph Lauren,ralphlauren,True,1,2009-04-22 20:58:38,5348,2301761,Defining timeless style since 1967
+65417.0,YUM BRANDS INC,8845592,Yum! Brands,yumbrands,True,1,2007-09-13 02:27:26,2827,23204,"OFFICIAL Twitter for the parent company of @kfc, @pizzahut, @TacoBell and @HabitBurger."
+66708.0,BROADCOM CORP,338504881,Broadcom Inc.,Broadcom,True,1,2011-07-19 17:43:11,5672,49416,"Broadcom Inc. (NASDAQ: AVGO) is a global technology leader that designs,
+develops and supplies semiconductor and infrastructure software solutions."
+104432.0,NORWEGIAN CRUISE LINE HLDGS,17045115,Cruise Norwegian,CruiseNorwegian,True,1,2008-10-29 16:45:13,24904,176111,News & exclusive updates from Norwegian Cruise Line! #CruiseNorwegian
+111864.0,COGNIZANT TECH SOLUTIONS,69687111,Cognizant,cognizant,True,1,2009-08-28 20:31:48,46963,759156,Cognizant (Nasdaq: CTSH) is dedicated to helping the world's leading companies build stronger businesses—helping them go from doing #digital to being digital.
+112168.0,REPUBLIC SERVICES INC,236230377,Republic Services,RepublicService,True,1,2011-01-10 03:18:33,8556,12928,Republic Services is an industry leader in U.S. recycling and non-hazardous solid waste disposal. Twitter Customer Service Hours: 8-5 MST (Mon-Fri)
+114524.0,EBAY INC,19709040,eBay,ebay,True,1,2009-01-29 12:49:39,32635,735803,"Now offering
+No-fee Authenticity Guarantee on select luxury ⌚️ $2K+ and collectible 👟 $100+ 
+👀 the blue check
+Questions? @AskeBay is here to help."
+114628.0,GOLDMAN SACHS GROUP INC,253167239,Goldman Sachs,goldmansachs,True,1,2011-02-16 17:59:09,14311,834525,"Official Goldman Sachs Twitter account. Follow us for the latest in global and local economic progress, firm news, and thought leadership content."
+118577.0,LIFE TECHNOLOGIES CORP,62862144,Thermo Fisher,ThermoFisher,True,1,2009-08-04 16:36:54,11816,55641,"Thermo Fisher Scientific Inc. is the world leader in serving science. Our mission is to enable our customers to make the world healthier, cleaner and safer."
+121718.0,JUNIPER NETWORKS INC,14775374,Juniper Networks,Junipernetworks,True,1,2008-05-14 16:59:46,17023,106003,"Official updates for Juniper Networks’ news, events and product innovation. https://t.co/coVOLG9Q1d"
+122841.0,RED HAT INC,14627400,"Red Hat, Inc.",redhat,True,1,2008-05-02 16:03:09,31713,212656,"The leading provider of enterprise open source solutions, using a community-powered approach to deliver Linux, cloud, container, and Kubernetes technologies."
+126136.0,CHARTER COMMUNICATIONS INC,127975950,Spectrum,GetSpectrum,True,1,2010-03-30 19:22:54,38149,150813,"America's fastest growing TV, Internet and Voice company
+
+For Spectrum’s full privacy policy, please visit https://t.co/lGXkCDsNUe"
+126296.0,EXPEDIA GROUP INC,56421139,Expedia Group,ExpediaGroup,True,1,2009-07-13 16:40:29,423,8139,"Travel    @expedia  @hotelsdotcom  @vrbo  @orbitz  @hotwire  @egencia
+Partner  @ExpediaLPS  @expediamedia  @expediapartners
+Work      @lifeatEG @expediagroupENG"
+133768.0,METLIFE INC,78661839,MetLife,metlife,True,1,2009-09-30 17:40:18,72912,54880,Navigating life together. For terms and conditions visit https://t.co/Nfck6AS6qJ
+135484.0,FRONTIER COMMUNICATIONS CORP,37695691,Frontier Comm,frontiercorp,True,1,2009-05-04 16:29:33,37675,29486,"Official tweets for Frontier Communications, your local provider of phone, internet, and TV. Contact us: @AskFrontier or 1.866.573.9972."
+142953.0,MONDELEZ INTERNATIONAL INC,2215976798,Mondelēz Intl,MDLZ,True,1,2013-11-26 16:14:22,10064,28316,Official home for news about Mondelēz International and our iconic brands. We empower people to snack right around the world! DM for product questions.
+143356.0,PRUDENTIAL FINANCIAL INC,1194947442,Prudential,Prudential,True,1,2013-02-18 21:23:57,5087,154105,"We solve Investment, Insurance and Retirement challenges, helping individuals, organizations and communities reach their goals. https://t.co/c65ToDxlxM @PruHelp"
+143357.0,ACCENTURE PLC,10194682,Accenture,Accenture,True,1,2007-11-12 21:34:00,21439,510743,"Together, we deliver on the promise of technology and human ingenuity. Let there be change."
+145701.0,PRINCIPAL FINANCIAL GRP INC,164365554,Principal®,principal,True,1,2010-07-08 18:06:54,10603,15988,"We are Principal Financial Group®. We help people and companies around the world build, protect and advance their financial well-being. https://t.co/qUCX8DmrrI"
+145977.0,ADVANCE AUTO PARTS INC,76762658,Advance Auto Parts,AdvanceAuto,True,1,2009-09-23 21:31:49,28108,39171,We like cars. How about you?  Vroom Vroom #AdvanceFleet
+147579.0,NETFLIX INC,16573941,Netflix,netflix,True,1,2008-10-03 04:16:17,37528,10743124,Black Lives Matter. Black Stories Matter. Follow @StrongBlackLead
+149070.0,CME GROUP INC,15935591,CME Group,cmegroup,True,1,2008-08-21 19:27:14,40536,692015,"CME Group is the world’s leading and most diverse derivatives marketplace, made up of four exchanges, CME, CBOT, NYMEX and COMEX."
+149318.0,WYNN RESORTS LTD,31240434,Wynn Las Vegas,WynnLasVegas,True,1,2009-04-14 21:59:32,15818,568246,"A luxury Las Vegas resort. Offering award-winning rooms & suites, signature restaurants, world-class shopping & nightly entertainment. #WynnLasVegas"
+149337.0,NASDAQ INC,18639734,Nasdaq,nasdaq,True,1,2009-01-05 18:26:28,50607,628505,"At Nasdaq, we're relentlessly reimagining the markets of today. Not by chasing the possibilities of tomorrow, but by creating them. ✍️ #RewriteTomorrow"
+157855.0,SALESFORCE.COM INC,33612317,Salesforce,Salesforce,True,1,2009-04-20 18:34:14,64053,533310,"We bring companies and customers together on the #1 CRM. Sharing the news, events, and innovation you need to change the world for good. Support: @asksalesforce"
+160225.0,MASTERCARD INC,75014376,Mastercard,MasterCard,True,1,2009-09-17 13:42:33,69298,479460,"Every day is a chance to make someone’s day. #StartSomethingPriceless. 
+For customer support, tweet us at @AskMastercard!"
+163610.0,INTERCONTINENTAL EXCHANGE,25570548,ICE,ice_markets,True,1,2009-03-20 20:32:51,5942,53261,"ICE connects people to data, technology and expertise that create opportunity and inspire innovation."
+164296.0,DISCOVERY INC,17842366,Discovery,discovery,True,1,2008-12-03 17:38:39,49076,8984858,We'll bring the world to you.
+165052.0,UNDER ARMOUR INC,23114836,Under Armour,UnderArmour,True,1,2009-03-06 20:35:33,26720,950849,Under Armour makes you better. #TheOnlyWayIsThrough
+165914.0,CHIPOTLE MEXICAN GRILL INC,141341662,Chipotle,chipotletweets,True,1,2010-05-07 20:50:36,890430,1043304,Cultivate a better world.
+165993.0,FIDELITY NATIONAL INFO SVCS,80619946,FIS,FISGlobal,True,1,2009-10-07 16:46:35,7775,20793,"FIS™ (NYSE: FIS) is a global leader in technology and solutions that advance the way the world pays, banks and invests."
+170617.0,FACEBOOK INC,2425151,Facebook,facebook,True,1,2007-03-27 07:29:25,14600,13308340,Our mission is to give people the power to build community and bring the world closer together.
+170841.0,PHILLIPS 66,405085229,Phillips 66,Phillips66Co,True,1,2011-11-04 20:53:22,1356,9690,Official Twitter account of Phillips 66.
+174022.0,REALOGY HOLDINGS CORP,23774401,Realogy,realogy,True,1,2009-03-11 15:04:30,1051,5392,"Realogy is the leading and most integrated provider of U.S. residential real estate services, featuring some of the most recognized names in real estate."
+175263.0,WESTERN UNION CO,30366928,Western Union,WesternUnion,True,1,2009-04-11 01:44:30,68492,630188,"WU offers our customers the power to send money to over 200 countries & territories through the mobile app, online or our Agent locations."
+177267.0,TE CONNECTIVITY LTD,29162590,TE Connectivity,teconnectivity,True,1,2009-04-06 07:39:24,6696,28797,"Global industrial technology leader creating a safer, sustainable, productive, and more connected future. #EveryConnectionCounts"
+179534.0,VISA INC,551373363,Visa,Visa,True,1,2012-04-11 20:22:05,13846,383204,You keep chasing your dreams. We’ll help you reach them faster.  Visa. Everywhere You Want to Be
+180405.0,ACTIVISION BLIZZARD INC,753670706311815169,Activision Blizzard,ATVI_AB,True,1,2016-07-14 19:21:13,779,77399,Activision Blizzard is one of the world's largest and most successful standalone interactive entertainment companies @activision @blizzard_ent @king_games
+180711.0,BROADCOM INC,338504881,Broadcom Inc.,Broadcom,True,1,2011-07-19 17:43:11,5672,49416,"Broadcom Inc. (NASDAQ: AVGO) is a global technology leader that designs,
+develops and supplies semiconductor and infrastructure software solutions."
+260774.0,CBRE GROUP INC,34675715,CBRE,CBRE,True,1,2009-04-23 17:44:16,7215,132597,A globally integrated commercial real estate and investment services firm that transforms real estate into real advantage.
+4066.0,OMNICOM GROUP,1666100959,Omnicom Group,Omnicom,True,1,2013-08-12 21:32:16,7365,20204,Global leader in marketing communications and innovations for the connected age. Home to the industry’s most creative minds and top analytical talent.
+5783.0,HUNT (JB) TRANSPRT SVCS INC,35872744,J.B. Hunt Drivers,jbhuntdrivers,True,1,2009-04-27 21:46:37,9788,12963,"Every mile. Every day. Drivers deliver.
+Be a part of the conversation!"
+7906.0,NIKE INC  -CL B,415859364,Nike,nike,True,1,2011-11-18 22:31:18,37033,8352590,#BlackLivesMatter
+8810.0,PUBLIC SERVICE ENTRP GRP INC,145331696,PSE&G,PSEGdelivers,False,1,2010-05-18 18:13:45,35306,102762,"PSE&G is largest elec.+gas utility in NJ. We tweet M-F 7a-11p, Sat-Sun 8a-4p; more in events. Call 800-436-7734 to report power outages/gas leaks/emergencies."
+9850.0,SOUTHERN CO,15864671,Southern Company,southerncompany,True,1,2008-08-15 16:38:36,5590,60639,America's premier energy company building the future of energy through its subsidiaries.
+10190.0,SUPERVALU INC,260784447,SuperValu Ireland,supervaluirl,True,1,2011-03-04 16:01:07,20400,46545,"SuperValu is Ireland’s leading food retailer with 220 stores nationwide. Follow us for the latest news on great offers, competitions, recipes & more. #SuperValu"
+11264.0,WALGREENS BOOTS ALLIANCE INC,46177695,Walgreens,walgreens,True,1,2009-06-10 17:56:29,71973,854730,We champion the health and well-being of every community in America.
+20779.0,CISCO SYSTEMS INC,15749983,Cisco,Cisco,True,1,2008-08-06 13:54:57,19470,713768,"Official info on Cisco news, events and technology innovation. For help, reach out to @Cisco_Support or @HeyCisco."
+25056.0,TIME WARNER INC,33956270,WarnerMedia,WarnerMedia,True,1,2009-04-21 16:33:05,9046,50833,Home of @hbomax @HBO @WarnerBros @TNTDrama @TBSNetwork @CNN @DCComics @NewLineCinema @CartoonNetwork @AdultSwim @TCM @trutv @bleacherreport and more!
+29155.0,CARS.COM INC,5911342,Cars.com,carsdotcom,True,1,2007-05-09 20:53:59,34610,132781,"With over half a billion connections made, just tell us what you like and meet a car you'll love. #WeMetOnCars"
+61567.0,LAUDER (ESTEE) COS INC -CL A,290081566,Estée Lauder,EsteeLauder,True,1,2011-04-29 18:12:39,14954,416651,“Be aware of your infinite possibilities.” - Estée Lauder 💄 Discover all things beauty from Estée Lauder.
+138205.0,ILLUMINA INC,46145761,Illumina,illumina,True,1,2009-06-10 15:59:29,14134,84916,Illumina is dedicated to advancing human health by unlocking the power of the genome.
+179621.0,PHILIP MORRIS INTERNATIONAL,914311278,Philip Morris International,InsidePMI,True,1,2012-10-30 10:14:32,7543,28776,We’re designing a #smokefree future. Find out how: https://t.co/R6mvUvv9fz #Unsmoke Your Mind
+6788.0,RANGE RESOURCES CORP,454272563,Range Resources,Range_Resources,False,1,2012-01-03 20:30:28,4825,4046,Range Resources Corporation (NYSE: RRC) is a leading U.S. independent natural gas producer with operations focused in Appalachia.
+8488.0,APPLIED BIOSYSTEMS INC,38226126,Applied Biosystems,appliedbio ,False,1,2009-05-06 17:13:43,8424,12411,"Providing innovative systems to accelerate research & further scientific advances. Part of @ThermoFisher, the world leader in serving science"
+9063.0,AUTONATION INC,39657792,AutoNation,AutoNation ,False,1,2009-05-13 01:47:34,28795,20653,"Follow America’s largest automotive retailer for the latest industry news, car-care tips and discounts at over 325 sales and service locations in 16 states."
+11550.0,WEC ENERGY GROUP INC,33554452,We Energies,we_energies ,False,1,2009-04-20 15:42:51,9837,7501,"Committed to a cleaner energy future that is safe, reliable and affordable
+Emergencies/outages: 800-662-4797
+Customer service: 800-242-9137"
+1408.0,BEAM INC,3254069844,BEAMincConsult,BEAMIncConsult,False,1,2015-06-24 01:00:48,76,42,"BEAM Inc. is a San Francisco based Strategy, Brand & Culture consulting firm dedicated to creating value and enriching life."
+1380.0,HESS CORP,44996346,Hess Corporation,hesscorporation,False,1,2009-06-05 21:07:30,1337,8335,Hess Corporation is a leading global independent energy company engaged in the exploration and production of crude oil and natural gas.
+1690.0,APPLE INC,380749300,Apple,Apple,True,1,2011-09-27 05:02:03,0,5975211,https://t.co/jw2s2L0RLt
+2136.0,VERIZON COMMUNICATIONS INC,59889953,Verizon,Verizon,True,1,2009-07-24 21:13:55,138387,1677260,5G from the network more people rely on. #5GBuiltRight
+2269.0,BLOCK H & R INC,10673252,H&R Block,HRBlock,True,1,2007-11-27 23:50:12,32472,38611,"Tax prep doesn’t have to be hard. At H&R Block, we have many filing options to make it easy for you. Professional tax prep with or without the office visit."
+2312.0,ROBERT HALF INTL INC,18648537,Robert Half Tech,RobertHalfTech,True,1,2009-01-05 22:09:28,7812,25588,Robert Half Technology is a leading provider of #IT professionals for project and full-time work.
+3310.0,CA INC,14790085,CA Technologies,CAinc,True,1,2008-05-15 18:56:43,30183,116324,CA Technologies is now a Broadcom company. Follow @Broadcom to stay up to date on company news and products.
+3504.0,COOPER COS INC (THE),263717123,The Cooper Company,coopercompany,False,1,2011-03-10 16:09:58,4063,782,"We manage Broadway, Film and TV choreographers, directors, writers & actors including @BenVereen, @JoshBergasse, and more!"
+3835.0,DEERE & CO,18726666,John Deere,JohnDeere,True,1,2009-01-07 16:19:31,11195,193700,Nothing runs like a Deere
+3851.0,DELTA AIR LINES INC,5920532,Delta,Delta,True,1,2007-05-10 04:31:14,1128852,1588908,"Caring for you is our top priority. For the most up to date information on how we’re responding to COVID-19, visit: https://t.co/l5WcWVfLXl"
+6733.0,L BRANDS INC,100516599,L Brands,l_brands,False,1,2009-12-30 14:57:55,1873,6547,"The official account of L Brands – Parent company of Victoria’s Secret, PINK and Bath & Body Works."
+7906.0,NIKE INC  -CL B,415859364,Nike,Nike,True,1,2011-11-18 22:31:18,37033,8352590,#BlackLivesMatter
+7970.0,EVERSOURCE ENERGY,19933146,Eversource Energy,EversourceCorp,True,1,2009-02-02 21:16:26,1476,9549,"Eversource is New England's largest energy delivery company. For state-specific updates, please follow: @EversourceCT, @EversourceMA, and @EversourceNH."
+11264.0,WALGREENS BOOTS ALLIANCE INC,46177695,Walgreens,Walgreens,True,1,2009-06-10 17:56:29,71973,854730,We champion the health and well-being of every community in America.
+11399.0,WESTERN DIGITAL CORP,17007560,WD®,WDCreators,True,1,2008-10-27 21:25:06,18341,162716,"WD® provides cost-effective solutions for the collection, management, protection and use of digital information. For support please visit @WesternDigiCare"
+14477.0,WASTE MANAGEMENT INC,17634248,Waste Management,WasteManagement,True,1,2008-11-25 22:39:32,31407,44062,Waste Management is the leading provider of comprehensive environmental solutions in North America. Twitter Hours: 8-5 CST (Mon-Fri)
+15855.0,NORTONLIFELOCK INC,1173980018009001984,NortonLifeLock,NortonLifelock,True,1,2019-09-17 15:20:38,479,1448,The official NortonLifeLock account for the latest news in #CyberSafety
+17120.0,SVB FINANCIAL GROUP,17396865,Silicon Valley Bank,SVB_Financial,True,1,2008-11-14 22:04:01,19389,34882,The bank of the world's most innovative companies and their investors.
+25434.0,STARBUCKS CORP,30973,Starbucks Coffee,Starbucks,True,1,2006-11-29 19:19:02,239808,10936464,"To inspire and nurture the human spirit — one person, one cup and one neighborhood at a time."
+28118.0,FOSSIL GROUP INC,119860540,Fossil,Fossil,True,1,2010-03-04 20:41:32,134787,88862,"Follow us for #FossilStyle, our best products and everything in between. Questions or concerns? We’re a tweet away."
+29150.0,URBAN OUTFITTERS INC,15515919,Urban Outfitters,UrbanOutfitters,True,1,2008-07-21 15:08:12,42701,956678,The official UO Twitter.
+34636.0,FOX CORP,1242578925835993088,Fox Corp Response,FoxResponse,True,1,2020-03-24 22:28:04,7,53,The official response account from Fox Corporation
+64891.0,RALPH LAUREN CORP,34395888,Ralph Lauren,RalphLauren,True,1,2009-04-22 20:58:38,5348,2301761,Defining timeless style since 1967
+121718.0,JUNIPER NETWORKS INC,14775374,Juniper Networks,JuniperNetworks,True,1,2008-05-14 16:59:46,17023,106003,"Official updates for Juniper Networks’ news, events and product innovation. https://t.co/coVOLG9Q1d"
+149070.0,CME GROUP INC,15935591,CME Group,CMEGroup,True,1,2008-08-21 19:27:14,40536,692015,"CME Group is the world’s leading and most diverse derivatives marketplace, made up of four exchanges, CME, CBOT, NYMEX and COMEX."
+149337.0,NASDAQ INC,18639734,Nasdaq,Nasdaq,True,1,2009-01-05 18:26:28,50607,628505,"At Nasdaq, we're relentlessly reimagining the markets of today. Not by chasing the possibilities of tomorrow, but by creating them. ✍️ #RewriteTomorrow"
+157855.0,SALESFORCE.COM INC,33612317,Salesforce,salesforce,True,1,2009-04-20 18:34:14,64053,533310,"We bring companies and customers together on the #1 CRM. Sharing the news, events, and innovation you need to change the world for good. Support: @asksalesforce"
+164296.0,DISCOVERY INC,17842366,Discovery,Discovery,True,1,2008-12-03 17:38:39,49076,8984858,We'll bring the world to you.
+165914.0,CHIPOTLE MEXICAN GRILL INC,141341662,Chipotle,ChipotleTweets,True,1,2010-05-07 20:50:36,890430,1043303,Cultivate a better world.
+176404.0,TIME WARNER CABLE INC,1375646822,Time Warner Cable,twcgr,False,1,2013-04-23 22:47:19,350,340,The official Twitter feed of Time Warner Cable's Government Relations Department.
+3144.0,COCA-COLA CO,23482357,The Coca-Cola Co.,CocaColaCo,True,1,2009-03-09 19:07:21,21716,1215245,"Refresh the World.  Make a Difference.
+...company news, brands, sustainability, innovation and inspiration"
+7647.0,BANK OF AMERICA CORP,204881628,Bank of America,BankofAmerica,True,1,2010-10-19 17:29:28,10155,558486,"The power to connect with people and exchange ideas. For account issues, please use @BofA_Help"
+7866.0,NEW YORK TIMES CO  -CL A,807095,The New York Times,nytimes,True,1,2007-03-02 20:41:42,421871,49260710,News tips? Share them here: https://t.co/ghL9OoYKMM
+18043.0,NEWS CORP,1516521758,News Corp,newscorp,True,1,2013-06-14 13:56:42,233,25874,Official Twitter account of News Corp
+18872.0,TWITTER INC,783214,Twitter,Twitter,True,1,2007-02-20 14:35:54,14045,59102145,What's happening?!
+1447.0,AMERICAN EXPRESS CO,42712551,American Express,AmericanExpress,True,1,2009-05-26 20:32:45,68601,857586,"Follow Amex's Erica (^E) & Alicia (^A) for insider news, access & more."
+2184.0,BEST BUY CO INC,17475575,Best Buy,BestBuy,True,1,2008-11-19 00:23:16,57990,1155791,Let’s talk about what’s possible. Share your best tech with the world using @BestBuy.   Contact @BestBuySupport with customer service questions.
+149738.0,CIT GROUP INC,76121820,CIT,CITgroup,False,1,2009-09-21 19:46:44,7867,5997,"CIT is a leading national bank focused on empowering businesses and personal savers. #BankLikeYou. Check out our consumer banking channel, @CITBank."
+7241.0,CVS HEALTH CORP,122473388,CVS Health,CVSHealth,True,1,2010-03-12 20:58:11,12071,62016,We are health care innovators with a simple and clear purpose: Helping people on their path to better health. Celebrating our CVS heroes: https://t.co/feddaBmZK5
+14489.0,DELL TECHNOLOGIES INC,58561993,Dell,Dell,True,1,2009-07-20 19:18:00,67019,749236,Official News from Dell: Delivering technology solutions that enable people everywhere to grow & thrive. Need support? Contact @DellCares.
+3980.0,DISNEY (WALT) CO,398282459,Walt Disney Company,WaltDisneyCo,True,1,2011-10-25 20:55:27,2241,561645,The latest news and updates from The Walt Disney Company.
+4199.0,EATON CORP PLC,19032584,Eaton,eatoncorp,True,1,2009-01-15 18:35:27,4855,32552,"Eaton is a global technology leader in power management solutions. We make power operate more efficiently, reliably, safely and sustainably. #whatmatters"
+114524.0,EBAY INC,19709040,eBay,eBay,True,1,2009-01-29 12:49:39,32635,735805,"Now offering
+No-fee Authenticity Guarantee on select luxury ⌚️ $2K+ and collectible 👟 $100+ 
+👀 the blue check
+Questions? @AskeBay is here to help."
+16721.0,ELECTRONIC ARTS INC,15234657,Electronic Arts,EA,True,1,2008-06-25 18:19:20,31354,6049384,"Official Twitter account for EA. Follow for updates on all your favorite EA games. For account help, visit https://t.co/5xFg35b7m1 or Tweet @EAHelp"
+126296.0,EXPEDIA GROUP INC,17365848,Expedia,Expedia,True,1,2008-11-13 14:36:18,110613,422062,"Travel tips and inspiration from https://t.co/b6hzy2dI4Q. For updates regarding COVID-19, visit our customer service portal: https://t.co/F3S6LLAz7l"
+170617.0,FACEBOOK INC,2425151,Facebook,Facebook,True,1,2007-03-27 07:29:25,14600,13308340,Our mission is to give people the power to build community and bring the world closer together.
+4839.0,FORD MOTOR CO,15676492,Ford Motor Company,Ford,True,1,2008-07-31 16:07:55,48652,1281013,We build the most beloved truck on the road. The most iconic American sports car. And the SUV most people think of when they think of an SUV.
+5073.0,GENERAL MOTORS CO,10850192,General Motors,GM,True,1,2007-12-04 20:43:28,17969,761850,"We’re on a journey to create a world with zero crashes, zero emissions and zero congestion. See how we’ll get there. Privacy Statement: https://t.co/u3I3TbTZSR"
+114628.0,GOLDMAN SACHS GROUP INC,253167239,Goldman Sachs,GoldmanSachs,True,1,2011-02-16 17:59:09,14311,834525,"Official Goldman Sachs Twitter account. Follow us for the latest in global and local economic progress, firm news, and thought leadership content."
+6742.0,LINCOLN NATIONAL CORP,48580514,Lincoln Financial,lincolnfingroup,True,1,2009-06-19 02:28:08,4034,10164,Taking care of you and your loved ones for over 115 years.
+4699.0,M & T BANK CORP,82382893,M&T Bank,MandT_Bank,True,1,2009-10-14 15:17:15,3914,11242,"The official channel for news, community updates and helpful information from M&T Bank. For customer support Mon-Fri 8am-4:30pm EST, tweet @MandT_Help."
+7146.0,MCCORMICK & CO INC,3031338755,McCormick Corporate,McCormickCorp,True,1,2015-02-11 21:31:52,1649,73254,The official Twitter account of McCormick & Company.
+9850.0,SOUTHERN CO,15864671,Southern Company,SouthernCompany,True,1,2008-08-15 16:38:36,5590,60639,America's premier energy company building the future of energy through its subsidiaries.
+1230.0,ALASKA AIR GROUP INC,13192972,Alaska Airlines,AlaskaAir,True,1,2008-02-07 05:17:36,337617,380427,We’ve now reached tweeting altitude. ✈️ Our Social Care team is here 24/7. For a formal response: https://t.co/gu9m8EggyQ #iFlyAlaska
+2285.0,BOEING CO,25103967,The Boeing Company,Boeing,True,1,2009-03-18 16:44:27,5373,606639,"Boeing has a tradition of aerospace leadership and innovation, and is committed to investing in the communities where our people work and live worldwide."
+3024.0,CHUBB CORP,39550624,Chubb,Chubb,True,1,2009-05-12 17:40:14,5001,27551,Chubb is the world’s largest publicly traded property and casualty insurer.
+4321.0,EMERSON ELECTRIC CO,62622531,Emerson,Emerson_News,True,1,2009-08-03 21:09:22,3148,18972,"Where technology and engineering come together to create global solutions, driven without compromise for a world in action.
+https://t.co/A6haet3XRx"
+4988.0,TEGNA INC,34123003,TEGNA,TEGNA,True,1,2009-04-22 01:11:48,5265,8125,"Our purpose is to serve the greater good of our communities – through empowering stories, impactful investigations and innovative marketing services."
+5518.0,HASBRO INC,78482616,Hasbro,Hasbro,True,1,2009-09-30 01:57:17,12646,164127,Creating the world's best play and entertainment experiences.
+5597.0,HERSHEY CO,3028555096,Ask Hershey,AskHershey,True,1,2015-02-10 18:24:29,2883,1652,Bringing Goodness to the World. Ask us questions about The Hershey Company and our portfolio of products. http://t.co/PirqdYjZ1w
+7585.0,MOTOROLA SOLUTIONS INC,49753110,motorolaus,MotorolaUS,True,1,2009-06-22 20:25:52,39508,498911,"From making the first mobile cell phone call to creating sleek, modern smartphones — Motorola is innovating for you. Tech support: @Moto_Support"
+8898.0,RAYMOND JAMES FINANCIAL CORP,17981602,Raymond James,RaymondJames,True,1,2008-12-09 02:42:57,8216,15739,Raymond James is a financial services firm dedicated to one thing: Life Well Planned. We take pride in pragmatism and in our steadfast commitment to clients.
+9777.0,SMUCKER (JM) CO,1270795331698135047,The J.M. Smucker Co.,JMSmuckerCo,True,1,2020-06-10 19:11:02,0,24,News and information from the company making food that people and pets love.
+11032.0,UNIVERSAL HEALTH SVCS INC,263806268,"UHS, Inc.",UHS_Inc,False,1,2011-03-10 19:40:07,2221,1391,One of the nation’s largest and most respected providers of hospital and healthcare services.
+11366.0,WENDY'S INTERNATIONAL INC,59553554,Wendy's,Wendys,True,1,2009-07-23 18:54:01,200287,3735208,We like our tweets the same way we like to make our hamburgers: better than anyone expects from a fast food joint.
+12978.0,KRAFT FOODS GROUP INC,213299248,Kraft Natural Cheese,kraftcheese,True,1,2010-11-08 15:01:30,3348,17129,"In a world of bland foods and picky eaters, nothing improves meals like Kraft Natural Cheese. That’s #ForTheWinWin."
+14624.0,OFFICE DEPOT INC,18572345,Office Depot,officedepot,True,1,2009-01-03 03:50:55,39833,94796,Here to help you #KeepBusinessGoing. #DiscoverDepot products & services & learn how we are making a #DepotDifference in our communities.
+14650.0,BMC SOFTWARE INC,2928731,BMC Software,BMCSoftware,True,1,2007-03-30 03:00:18,25205,53731,"BMC helps customers run and reinvent their businesses with open, scalable, and modular solutions to complex IT problems."
+20423.0,CAESARS ENTERTAINMENT CORP,164528815,Caesars Entertainment,CaesarsEnt,True,1,2010-07-09 02:53:34,5096,15498,"Over 50 Destinations. One Empire.
+Must be 21+ to gamble. Know When to Stop Before You Start.® 
+Gambling problem? Call 800-522-4700."
+24616.0,PAYPAL HOLDINGS INC,30018058,PayPal,PayPal,True,1,2009-04-09 16:46:17,11564,687774,"Spend, send, and receive money the way you want, simply and securely, with PayPal. For help, tweet us at @AskPayPal."
+27914.0,HUMANA INC,24160942,Humana,Humana,True,1,2009-03-13 12:09:13,15601,44243,Pursuing our dream of helping people achieve lifelong well-being. To learn more about Humana visit https://t.co/t4fYofD5t6.  Need help? Tweet @HumanaHelp.
+163610.0,INTERCONTINENTAL EXCHANGE,4018855294,Inside the ICE House 🎧,ICEHousePodcast,True,1,2015-10-22 18:48:54,1075,4712,"#InsideTheICEHouse, the podcast from Intercontinental Exchange, features conversations with leaders & visionaries from the Library of @NYSE • Host: @Polioptics"
+166451.0,NYSE EURONEXT,325578886,Euronext,euronext,False,1,2011-06-28 14:44:52,2530,6893,The leading pan-European exchange
+1045.0,AMERICAN AIRLINES GROUP INC,22536055,americanair,AmericanAir,True,1,2009-03-02 21:23:05,2287478,1603671,"Official Twitter for the world’s largest airline. We’re here for you 24/7. For more about us or a formal response, visit https://t.co/6GJxuwPp4T."
+1161.0,ADVANCED MICRO DEVICES,14861876,AMD,AMD,True,1,2008-05-21 22:14:12,8969,975333,Official corporate news about the AMD technology enabling today and inspiring tomorrow.
+1602.0,AMGEN INC,28436760,Amgen,Amgen,True,1,2009-04-02 22:32:57,9929,96622,Patients. They're why we develop and manufacture innovative human therapeutics to treat serious diseases. Community Guidelines: https://t.co/0txZKKMAVg
+2255.0,BLACK & DECKER CORP,74616001,BLACK+DECKER,BLACKANDDECKER,True,1,2009-09-16 01:19:35,6244,45678,Tackling that to-do list? You Got This. BLACK+DECKER helps you keep up with life.
+2435.0,BROWN FORMAN CORP,999295860486918144,Brown-Forman,brownforman,True,1,2018-05-23 14:27:53,1736,1150,Please Drink Responsibly. Legal drinking age only. Don't share with anyone underage. https://t.co/bgrPwujH2G ©2021 Brown-Forman. All rights reserved.
+3105.0,IHEARTMEDIA INC,95735455,iHeartMedia,iHeartMedia,True,1,2009-12-09 21:26:02,1762,22899,"iHeartMedia, Inc. is one of the leading global media and entertainment companies. For more company information visit http://t.co/34j8b9xuRq."
+3362.0,CONAGRA BRANDS INC,92357890,Conagra Brands,ConagraBrands,True,1,2009-11-24 20:30:48,9663,22773,"Conagra Brands is one of North America’s leading branded food companies. To view our portfolio of brands, visit https://t.co/UsA2WOi5zZ."
+3532.0,CORNING INC,65457124,Corning Incorporated,Corning,True,1,2009-08-13 20:19:59,7848,30297,"Official Twitter of Corning Incorporated; materials science innovator & leader in specialty glass, ceramics & optical physics. Terms: https://t.co/UgtAnA12pG"
+4029.0,DOMINION ENERGY INC,82653001,Dominion Energy,DominionEnergy,True,1,2009-10-15 16:21:15,36311,62274,"Sharing the latest news, info & updates about Dominion Energy. Customers can report outages at https://t.co/PplRNyVKiK. If you suspect an emergency, call 911."
+4194.0,EASTMAN KODAK CO,132588642,Kodak,Kodak,True,1,2010-04-13 17:04:41,7147,56782,Enabling creativity since 1880. ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀
+4990.0,GAP INC,18462157,Gap,Gap,True,1,2008-12-29 22:39:35,37721,629555,Optimistic American style.
+5071.0,GENERAL MILLS INC,280557152,General Mills,GeneralMills,True,1,2011-04-11 15:26:07,20961,99912,"News/information from General Mills. Learn more at https://t.co/K7ale2Yhbq, https://t.co/brNL7A0kV1 and https://t.co/Q8ZoS4kQLA"
+5125.0,GENUINE PARTS CO,1092453925935034370,Genuine Parts Company,genuinepartsco,False,1,2019-02-04 16:04:47,118,260,GPC is the respected global leader in the distribution of automotive and industrial parts.
+5643.0,HILTON WORLDWIDE HOLDINGS,64510593,Hilton Hotels,HiltonHotels,True,1,2009-08-10 20:49:11,72175,315687,"Each property uniquely reflects its destination, combining local influences with out-of-this-world service for a truly memorable stay."
+7267.0,MERRILL LYNCH & CO INC,360685668,Merrill Lynch,MerrillLynch,True,1,2011-08-23 16:10:36,3891,526681,Merrill Lynch provides timely stats and strategies to help you pursue your financial goals. Follow us to get started. Disclosures: https://t.co/Xx7Jqjk4RW
+10614.0,GLOBE LIFE INC,58502355,Globe Life,globelife,False,1,2009-07-20 15:33:28,2690,2051,"With roots going back over 100 years, we provide life insurance to millions of families. Proud sponsor of @Rangers, @DallasCowboys, @FCDallas, & @AllenAmericans"
+11259.0,WALMART INC,39820738,Walmart Inc.,WalmartInc,True,1,2009-05-13 20:03:30,9300,64505,"News, innovation and sparks of inspiration from Walmart and its family of brands."
+34443.0,DOW INC,15695369,Dow,DowNewsroom,True,1,2008-08-01 22:16:15,14977,70994,We are a materials science company dedicated to giving our customers the solutions they need to achieve their goals and create a better tomorrow. #SeekTogether
+60900.0,DISH NETWORK CORP,17170147,DISH,dish,True,1,2008-11-04 21:49:26,59877,109871,We go above and beyond to deliver the best TV watching experience. Because we are Tuned In To You®. Customer service questions? @DISH_Answers
+63643.0,ABERCROMBIE & FITCH  -CL A,270533441,Abercrombie & Fitch,Abercrombie,True,1,2011-03-22 20:01:47,3333,516839,
+64156.0,MONSTER WORLDWIDE INC,17426969,Monster Worldwide,MonsterWW,True,1,2008-11-16 20:02:05,10573,29788,"The place for all your @monster worldwide news.
+
+https://t.co/bk1wBj1rXY"
+122841.0,RED HAT INC,14627400,"Red Hat, Inc.",RedHat,True,1,2008-05-02 16:03:09,31713,212650,"The leading provider of enterprise open source solutions, using a community-powered approach to deliver Linux, cloud, container, and Kubernetes technologies."
+141913.0,GLOBAL PAYMENTS INC,478912243,Global Payments Inc.,GlobalPayInc,False,1,2012-01-30 20:11:25,2401,4255,Global Payments Inc. (NYSE: GPN) is a leading pure play payments technology company delivering innovative software and services to our customers globally.
